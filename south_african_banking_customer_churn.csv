@@ -1,0 +1,1701 @@
+customer_id,age,gender,province,account_type,tenure_years,monthly_transactions,monthly_balance,credit_score,churn_status
+1,56,Male,Mpumalanga,Business,20,15,183132.49,320,Active
+2,28,Female,Limpopo,Current,4,24,162896.67,608,Churned
+3,38,Male,Eastern Cape,Student,1,76,153107.46,552,Active
+4,69,Male,Western Cape,Current,3,51,170236.73,466,Active
+5,26,Male,Gauteng,Student,2,60,30948.54,808,Churned
+6,67,Female,Limpopo,Savings,8,4,78271.91,689,Active
+7,35,Male,North West,Current,12,34,99089.98,569,Active
+8,40,Female,Northern Cape,Savings,8,53,146894.42,516,Active
+9,32,Female,North West,Student,13,65,4401.28,820,Active
+10,28,Female,Mpumalanga,Current,19,8,182387.29,588,Active
+11,58,Male,North West,Savings,7,73,156012.88,332,Active
+12,52,Male,Mpumalanga,Business,12,35,118317.62,761,Churned
+13,31,Female,Eastern Cape,Business,7,27,130921.84,314,Active
+14,49,Male,KwaZulu-Natal,Savings,7,52,141037.26,784,Active
+15,49,Female,Mpumalanga,Student,7,59,173848.84,327,Active
+16,42,Male,KwaZulu-Natal,Savings,7,62,27957.96,676,Active
+17,58,Male,North West,Business,3,70,127931.45,617,Active
+18,49,Female,Mpumalanga,Current,9,52,91225.59,796,Active
+19,20,Female,Limpopo,Business,17,56,9703.29,412,Churned
+20,54,Female,Limpopo,Student,1,1,60270.69,429,Active
+21,21,Female,Western Cape,Current,11,56,59790.57,593,Active
+22,39,Female,Eastern Cape,Student,11,16,208907.97,423,Active
+23,53,Female,Northern Cape,Savings,19,67,202470.51,447,Active
+24,57,Male,Eastern Cape,Business,7,1,169084.68,772,Active
+25,33,Male,Free State,Student,16,60,65576.88,603,Churned
+26,26,Female,North West,Savings,9,19,181625.94,430,Churned
+27,41,Female,Eastern Cape,Student,20,75,233940.93,719,Churned
+28,42,Male,Northern Cape,Student,3,25,1762.87,637,Active
+29,50,Male,Eastern Cape,Savings,4,33,123726.48,803,Active
+30,50,Female,Limpopo,Current,16,76,127449.11,769,Active
+31,62,Female,Gauteng,Student,19,54,226571.65,326,Active
+32,64,Male,Gauteng,Student,1,69,57931.22,815,Active
+33,45,Male,Free State,Business,14,6,92854.6,336,Churned
+34,52,Female,Western Cape,Savings,1,63,76771.41,460,Active
+35,59,Male,Western Cape,Business,3,46,24745.54,587,Active
+36,44,Male,Limpopo,Student,10,2,80976.42,403,Active
+37,56,Female,Mpumalanga,Savings,10,26,202623.29,707,Churned
+38,53,Female,Eastern Cape,Business,13,20,162666.0,811,Active
+39,32,Male,Limpopo,Current,2,66,109899.29,350,Active
+40,39,Male,Gauteng,Student,17,52,10189.27,353,Active
+41,61,Male,North West,Student,12,5,114587.66,649,Active
+42,33,Female,Mpumalanga,Current,13,30,10746.35,419,Active
+43,54,Male,Western Cape,Student,9,12,102533.76,357,Churned
+44,65,Male,Mpumalanga,Business,8,1,238738.89,746,Active
+45,29,Male,Gauteng,Current,16,51,189582.6,584,Active
+46,63,Male,Mpumalanga,Student,20,69,118806.37,517,Active
+47,50,Male,Eastern Cape,Current,5,23,12490.7,399,Active
+48,49,Male,Western Cape,Savings,1,69,171148.96,315,Active
+49,45,Male,Eastern Cape,Business,20,24,169453.5,679,Active
+50,54,Female,Western Cape,Savings,12,67,205196.5,467,Churned
+51,68,Female,Western Cape,Business,18,35,84470.28,389,Active
+52,58,Female,KwaZulu-Natal,Savings,7,68,173376.14,792,Churned
+53,38,Male,KwaZulu-Natal,Current,4,10,106156.0,491,Active
+54,66,Male,Mpumalanga,Savings,7,24,216845.59,336,Active
+55,52,Male,Limpopo,Savings,9,30,225686.95,361,Active
+56,36,Female,KwaZulu-Natal,Business,17,12,239656.1,375,Active
+57,64,Male,KwaZulu-Natal,Savings,16,69,73656.09,324,Active
+58,40,Female,Free State,Business,16,57,28809.42,341,Churned
+59,40,Female,Gauteng,Savings,11,75,29708.22,308,Active
+60,55,Male,Western Cape,Savings,7,46,175391.8,469,Active
+61,46,Female,KwaZulu-Natal,Savings,5,38,246666.57,795,Churned
+62,24,Male,Limpopo,Business,13,4,87879.45,551,Active
+63,44,Female,KwaZulu-Natal,Student,10,19,28243.77,750,Active
+64,25,Male,Gauteng,Savings,9,39,186638.2,647,Churned
+65,50,Male,Limpopo,Savings,6,6,200626.26,472,Active
+66,28,Male,Northern Cape,Savings,5,36,138686.64,831,Active
+67,31,Male,North West,Current,15,31,248959.93,558,Churned
+68,29,Female,Free State,Savings,8,36,116192.75,615,Active
+69,53,Male,Eastern Cape,Savings,17,73,77727.14,760,Active
+70,23,Female,Western Cape,Business,18,69,153547.09,749,Active
+71,62,Male,Free State,Current,5,33,194511.77,445,Churned
+72,42,Male,Free State,Student,17,77,16346.2,404,Active
+73,23,Male,Free State,Current,17,69,249929.56,736,Active
+74,27,Male,KwaZulu-Natal,Current,19,17,60650.67,756,Active
+75,18,Female,Western Cape,Current,17,32,12200.67,394,Active
+76,20,Female,Northern Cape,Savings,18,12,204188.24,535,Active
+77,65,Female,Western Cape,Current,15,23,188906.75,374,Active
+78,67,Female,Northern Cape,Current,2,30,138926.49,734,Churned
+79,50,Female,North West,Savings,15,30,155710.63,380,Churned
+80,27,Female,Eastern Cape,Business,17,69,245018.13,352,Active
+81,40,Female,North West,Savings,16,75,35137.38,819,Active
+82,20,Male,Free State,Savings,3,27,167055.66,360,Active
+83,35,Female,Western Cape,Savings,10,61,8435.27,812,Active
+84,31,Female,North West,Current,13,27,10308.38,548,Active
+85,60,Male,KwaZulu-Natal,Business,16,61,1147.46,556,Active
+86,64,Female,North West,Business,14,28,92543.95,515,Active
+87,24,Female,Limpopo,Business,3,23,128163.52,807,Active
+88,68,Male,Northern Cape,Savings,15,64,67676.19,784,Active
+89,56,Female,Eastern Cape,Savings,12,25,222686.56,511,Active
+90,62,Female,Northern Cape,Savings,18,34,139656.7,668,Active
+91,23,Male,Limpopo,Savings,20,26,152085.03,742,Active
+92,50,Female,North West,Business,6,70,61866.45,815,Churned
+93,26,Female,Western Cape,Student,3,31,102894.01,847,Churned
+94,45,Female,Limpopo,Business,11,4,1822.35,417,Active
+95,19,Male,Limpopo,Current,15,75,143117.37,734,Churned
+96,21,Female,Limpopo,Savings,19,20,60981.23,300,Active
+97,28,Female,Western Cape,Savings,4,77,133381.06,309,Active
+98,57,Male,North West,Current,2,65,35136.78,628,Active
+99,52,Male,North West,Business,17,69,207739.54,535,Active
+100,26,Female,North West,Business,2,76,95117.53,812,Active
+101,58,Male,Eastern Cape,Business,5,14,199984.51,590,Active
+102,31,Female,Eastern Cape,Savings,4,42,98415.05,595,Active
+103,55,Male,Western Cape,Current,1,23,109966.8,444,Churned
+104,57,Male,Eastern Cape,Student,8,51,135940.9,497,Churned
+105,59,Male,KwaZulu-Natal,Savings,20,15,219717.96,588,Active
+106,55,Female,Free State,Business,1,27,186114.6,553,Active
+107,27,Female,North West,Business,1,38,134352.1,527,Active
+108,46,Female,Eastern Cape,Business,8,5,121846.19,623,Active
+109,53,Female,North West,Current,4,26,63323.87,368,Churned
+110,23,Female,North West,Current,8,23,115770.45,601,Active
+111,35,Male,North West,Savings,1,60,148444.24,655,Churned
+112,25,Female,Northern Cape,Current,10,31,151875.4,350,Active
+113,28,Female,Mpumalanga,Savings,1,46,59358.56,645,Churned
+114,18,Male,KwaZulu-Natal,Savings,19,40,152169.65,730,Active
+115,43,Female,Western Cape,Business,9,35,99843.09,836,Churned
+116,35,Male,Mpumalanga,Student,2,17,146973.52,478,Active
+117,23,Male,Mpumalanga,Savings,1,49,195233.68,455,Active
+118,37,Male,North West,Savings,9,49,139547.69,641,Active
+119,24,Male,Gauteng,Savings,1,13,99630.87,734,Active
+120,46,Female,Limpopo,Student,16,40,147069.67,670,Active
+121,66,Male,Eastern Cape,Student,18,38,191456.39,563,Churned
+122,27,Female,Western Cape,Business,10,34,102479.18,386,Churned
+123,46,Female,Limpopo,Savings,8,65,138154.79,742,Active
+124,64,Female,North West,Current,5,67,221921.39,563,Active
+125,49,Female,Mpumalanga,Student,14,16,99597.29,464,Active
+126,35,Female,Eastern Cape,Student,7,74,21834.38,450,Churned
+127,46,Female,Eastern Cape,Business,18,2,227700.69,822,Active
+128,29,Female,Free State,Student,20,5,86625.44,555,Active
+129,52,Female,Mpumalanga,Student,20,24,29002.36,457,Active
+130,49,Male,Limpopo,Current,17,14,185550.89,536,Active
+131,60,Male,Free State,Business,14,4,33502.91,328,Active
+132,23,Male,Limpopo,Current,18,42,144340.86,333,Active
+133,29,Male,Northern Cape,Savings,10,27,225054.65,467,Active
+134,24,Female,Western Cape,Student,10,45,209607.69,775,Active
+135,60,Male,North West,Business,1,51,23039.07,670,Active
+136,53,Male,North West,Current,17,59,74631.87,526,Churned
+137,39,Male,Eastern Cape,Student,5,56,54127.62,847,Active
+138,60,Female,Free State,Savings,17,62,238831.46,781,Active
+139,26,Female,Northern Cape,Business,8,17,103491.99,360,Active
+140,52,Male,Free State,Student,3,44,241941.0,401,Active
+141,66,Female,North West,Business,17,74,172794.78,796,Active
+142,25,Male,Northern Cape,Savings,17,70,245153.91,765,Active
+143,43,Male,Limpopo,Current,15,32,176541.01,700,Active
+144,24,Female,Western Cape,Business,14,79,174506.36,436,Active
+145,40,Male,North West,Business,18,39,114058.35,742,Churned
+146,61,Male,North West,Savings,13,3,174224.05,482,Active
+147,21,Female,Mpumalanga,Business,13,33,221551.45,725,Churned
+148,59,Female,Eastern Cape,Business,2,30,559.26,440,Active
+149,56,Female,Northern Cape,Student,14,29,191913.48,776,Active
+150,61,Male,Gauteng,Business,15,10,23378.98,658,Active
+151,62,Male,Gauteng,Savings,14,30,213279.04,445,Active
+152,63,Male,Free State,Savings,15,73,27812.17,643,Active
+153,54,Male,Western Cape,Savings,11,70,245591.46,618,Churned
+154,24,Male,Western Cape,Savings,20,4,58302.09,609,Active
+155,43,Male,Mpumalanga,Savings,9,3,206638.32,816,Active
+156,26,Female,Gauteng,Student,3,20,248729.5,789,Active
+157,20,Female,Free State,Current,3,13,56342.49,388,Active
+158,28,Male,Western Cape,Student,9,56,66767.21,840,Churned
+159,59,Female,North West,Student,9,79,163982.87,560,Active
+160,32,Female,Free State,Student,6,72,174080.72,475,Active
+161,65,Female,Eastern Cape,Current,13,28,19494.65,413,Active
+162,20,Male,North West,Student,8,40,141650.13,588,Churned
+163,50,Female,Limpopo,Student,16,41,83835.22,644,Churned
+164,24,Female,Free State,Current,5,45,218024.96,330,Churned
+165,56,Female,Gauteng,Savings,18,2,208117.48,823,Active
+166,34,Female,Eastern Cape,Current,8,60,2763.56,664,Active
+167,24,Male,Limpopo,Student,10,63,98341.73,634,Churned
+168,37,Male,Limpopo,Savings,4,68,75590.41,316,Active
+169,39,Male,Eastern Cape,Student,18,50,247542.02,584,Active
+170,29,Male,Mpumalanga,Current,7,29,6019.83,378,Churned
+171,51,Male,Mpumalanga,Savings,14,29,236103.76,398,Active
+172,46,Male,Eastern Cape,Savings,11,32,21054.07,383,Active
+173,61,Male,Limpopo,Business,15,59,241147.86,752,Churned
+174,51,Female,North West,Student,3,64,217096.64,823,Active
+175,63,Female,Mpumalanga,Business,17,53,38837.68,326,Churned
+176,46,Female,Northern Cape,Current,12,53,228003.09,677,Active
+177,31,Male,Limpopo,Current,7,17,152022.96,820,Active
+178,19,Female,Western Cape,Current,8,11,246095.68,371,Active
+179,64,Male,Limpopo,Business,6,32,164417.47,401,Churned
+180,41,Female,Limpopo,Current,9,17,26146.7,345,Active
+181,45,Female,Gauteng,Savings,20,33,140132.35,541,Active
+182,58,Male,Western Cape,Current,13,30,8784.18,415,Active
+183,56,Male,Eastern Cape,Business,14,15,50437.49,727,Active
+184,23,Female,North West,Student,9,6,154342.84,522,Active
+185,67,Female,KwaZulu-Natal,Current,20,62,153258.37,682,Active
+186,39,Female,Mpumalanga,Student,3,41,41417.87,313,Active
+187,30,Male,Mpumalanga,Savings,13,19,243978.38,655,Active
+188,49,Male,Eastern Cape,Student,19,44,139063.21,848,Churned
+189,27,Female,Gauteng,Current,19,35,55530.0,506,Active
+190,38,Female,North West,Current,20,37,86810.78,663,Active
+191,66,Male,Western Cape,Student,19,36,7833.91,811,Active
+192,23,Female,Eastern Cape,Savings,7,42,248037.26,485,Churned
+193,35,Female,Mpumalanga,Current,8,21,183411.7,819,Active
+194,61,Male,Northern Cape,Current,14,78,128397.49,592,Churned
+195,64,Male,Western Cape,Business,14,2,24267.75,444,Active
+196,54,Male,Eastern Cape,Current,5,65,193481.54,600,Active
+197,31,Female,North West,Business,16,74,112470.0,660,Active
+198,29,Male,Free State,Student,1,57,42176.96,583,Active
+199,54,Female,KwaZulu-Natal,Current,17,44,111868.98,666,Churned
+200,31,Male,Mpumalanga,Business,2,73,133026.8,319,Active
+201,23,Female,Free State,Current,5,59,79380.95,505,Active
+202,41,Male,Western Cape,Business,11,50,243287.89,338,Active
+203,61,Female,Mpumalanga,Student,6,23,7978.41,607,Active
+204,67,Female,Western Cape,Savings,1,8,39462.88,657,Churned
+205,43,Male,North West,Savings,11,74,4870.24,444,Churned
+206,29,Female,Free State,Student,8,46,229710.11,300,Active
+207,22,Female,Northern Cape,Savings,9,62,164632.4,460,Active
+208,30,Female,Limpopo,Business,9,75,219689.63,680,Active
+209,23,Female,Limpopo,Business,2,13,199554.51,664,Churned
+210,42,Female,Northern Cape,Savings,15,65,91932.15,442,Active
+211,66,Female,Western Cape,Current,17,35,57203.77,566,Active
+212,26,Male,Northern Cape,Student,3,26,237893.9,749,Active
+213,22,Male,Mpumalanga,Current,2,48,145253.01,599,Active
+214,63,Female,Free State,Student,18,43,5049.03,706,Active
+215,32,Female,Eastern Cape,Current,4,75,95328.59,623,Churned
+216,31,Female,KwaZulu-Natal,Current,4,52,167688.96,455,Active
+217,35,Male,Mpumalanga,Business,2,49,244192.95,389,Active
+218,61,Male,North West,Student,10,39,131528.26,611,Active
+219,37,Female,Mpumalanga,Current,4,7,204029.29,471,Active
+220,38,Male,North West,Student,9,26,53405.19,309,Active
+221,33,Female,Mpumalanga,Current,17,26,64283.43,349,Active
+222,42,Male,Gauteng,Business,18,19,156152.9,738,Active
+223,61,Male,Mpumalanga,Student,2,33,54576.58,731,Active
+224,28,Male,Western Cape,Student,10,73,98031.05,808,Active
+225,52,Male,Gauteng,Business,7,18,101377.53,673,Active
+226,56,Male,KwaZulu-Natal,Student,14,19,151003.24,401,Active
+227,54,Male,Mpumalanga,Student,1,36,48370.9,652,Active
+228,30,Female,Free State,Student,17,60,17369.33,816,Active
+229,55,Female,Limpopo,Current,8,50,170192.92,680,Active
+230,40,Female,North West,Current,12,2,91054.6,653,Active
+231,61,Male,Northern Cape,Business,4,69,44238.08,586,Active
+232,33,Male,Mpumalanga,Student,12,17,75562.85,814,Churned
+233,68,Male,Free State,Student,8,5,184426.47,547,Active
+234,23,Female,Limpopo,Student,18,72,188939.97,460,Active
+235,51,Male,Free State,Current,14,36,76130.52,413,Active
+236,44,Female,KwaZulu-Natal,Current,9,65,76728.32,479,Active
+237,23,Female,Gauteng,Current,3,22,124492.39,641,Active
+238,55,Female,Limpopo,Business,18,45,95465.51,515,Active
+239,33,Female,Western Cape,Business,7,52,204774.38,698,Active
+240,35,Male,Limpopo,Savings,14,20,143473.84,565,Churned
+241,53,Male,Eastern Cape,Savings,14,65,151760.11,537,Active
+242,23,Male,KwaZulu-Natal,Current,13,8,119819.39,836,Active
+243,46,Male,Eastern Cape,Business,6,32,54401.53,553,Active
+244,68,Male,North West,Business,5,34,115220.21,681,Churned
+245,26,Female,Eastern Cape,Business,19,9,35991.22,628,Active
+246,33,Female,KwaZulu-Natal,Student,16,4,158480.81,400,Active
+247,55,Female,Limpopo,Current,7,50,33112.24,782,Active
+248,24,Male,Limpopo,Current,5,5,3252.3,685,Active
+249,32,Female,Western Cape,Savings,10,58,47828.86,364,Active
+250,38,Female,Free State,Student,18,45,11136.99,764,Active
+251,43,Female,Limpopo,Current,4,34,81506.64,526,Active
+252,38,Male,Northern Cape,Savings,10,13,33719.68,491,Active
+253,19,Female,North West,Savings,16,29,70202.24,541,Active
+254,45,Male,Mpumalanga,Student,11,34,96894.05,499,Active
+255,62,Female,North West,Savings,19,69,184489.73,748,Active
+256,40,Male,Free State,Student,11,1,18485.04,707,Active
+257,38,Male,Eastern Cape,Business,8,58,115755.76,527,Active
+258,68,Female,Limpopo,Business,19,58,25049.71,649,Churned
+259,49,Female,Eastern Cape,Savings,16,8,192421.18,628,Active
+260,53,Female,Western Cape,Current,4,78,17778.95,516,Active
+261,38,Female,Western Cape,Business,4,12,118846.86,673,Active
+262,27,Female,Northern Cape,Current,15,17,232056.87,482,Active
+263,39,Female,Gauteng,Student,20,30,232115.22,471,Active
+264,38,Male,Western Cape,Savings,3,32,79572.16,338,Churned
+265,30,Female,Limpopo,Current,8,46,182258.42,535,Active
+266,60,Female,Eastern Cape,Business,13,2,33366.33,762,Active
+267,41,Female,Eastern Cape,Business,12,77,103647.4,720,Active
+268,36,Female,North West,Savings,7,25,190399.82,410,Active
+269,61,Female,Western Cape,Business,5,3,247956.58,403,Active
+270,42,Female,Northern Cape,Student,10,21,183401.29,530,Active
+271,30,Male,Northern Cape,Current,9,36,1804.79,613,Active
+272,37,Male,KwaZulu-Natal,Business,11,16,37647.57,369,Churned
+273,21,Female,Free State,Current,20,10,221605.85,526,Active
+274,57,Female,Gauteng,Business,7,21,7753.31,487,Active
+275,24,Female,KwaZulu-Natal,Student,4,14,180989.49,635,Active
+276,41,Male,Gauteng,Business,2,30,201344.76,458,Active
+277,63,Female,Free State,Business,19,22,174006.2,375,Active
+278,53,Male,Gauteng,Current,19,48,93678.92,649,Active
+279,69,Male,Limpopo,Student,17,47,249587.7,417,Active
+280,37,Male,Northern Cape,Current,16,47,30024.88,377,Active
+281,33,Female,Gauteng,Business,5,61,244921.86,553,Active
+282,62,Male,Free State,Student,19,19,65194.54,601,Active
+283,66,Male,Western Cape,Business,10,64,121000.73,559,Active
+284,18,Male,KwaZulu-Natal,Student,4,70,14791.42,663,Active
+285,42,Male,Eastern Cape,Business,4,30,71045.05,713,Active
+286,45,Male,Limpopo,Student,14,10,68351.46,481,Active
+287,26,Male,KwaZulu-Natal,Current,13,56,12101.9,549,Active
+288,50,Male,Mpumalanga,Savings,7,70,225008.42,502,Churned
+289,59,Male,Eastern Cape,Business,12,14,182839.83,613,Churned
+290,43,Male,Northern Cape,Savings,5,49,116251.16,683,Churned
+291,67,Male,Western Cape,Student,4,71,171096.65,588,Active
+292,60,Female,Limpopo,Current,9,39,177104.86,828,Active
+293,18,Female,Western Cape,Student,10,5,236451.69,411,Active
+294,65,Female,Eastern Cape,Student,19,39,136585.25,643,Active
+295,68,Male,KwaZulu-Natal,Current,17,64,85274.48,576,Active
+296,69,Female,Gauteng,Business,15,79,219955.67,680,Active
+297,19,Female,Mpumalanga,Savings,3,72,70966.51,526,Active
+298,67,Female,North West,Student,11,19,110547.5,803,Active
+299,45,Male,North West,Current,9,36,69472.2,371,Active
+300,59,Male,Western Cape,Business,20,70,198418.71,686,Active
+301,57,Female,Free State,Student,6,33,149729.1,819,Churned
+302,47,Male,Gauteng,Business,6,19,220662.88,823,Active
+303,62,Male,Mpumalanga,Student,13,34,41905.75,401,Churned
+304,44,Female,Free State,Business,5,25,23711.11,495,Active
+305,45,Male,Northern Cape,Savings,9,50,28131.74,676,Active
+306,41,Female,Gauteng,Savings,2,3,220015.57,576,Active
+307,52,Male,Mpumalanga,Student,20,34,87311.38,637,Active
+308,39,Female,Western Cape,Current,17,69,201645.87,588,Active
+309,52,Female,Gauteng,Student,8,28,170576.54,753,Churned
+310,40,Male,Northern Cape,Savings,3,4,216663.44,442,Active
+311,63,Male,Western Cape,Business,20,14,225950.16,700,Active
+312,50,Female,KwaZulu-Natal,Savings,6,23,42685.73,653,Active
+313,25,Male,North West,Student,3,19,244211.68,806,Active
+314,31,Male,Eastern Cape,Savings,6,22,214656.25,382,Churned
+315,45,Female,Mpumalanga,Savings,20,45,240721.18,362,Active
+316,36,Female,Gauteng,Current,15,14,55001.57,736,Active
+317,26,Male,Northern Cape,Student,1,52,75665.68,502,Active
+318,21,Female,Gauteng,Student,8,2,167117.27,426,Active
+319,47,Male,Free State,Savings,12,35,67310.28,793,Churned
+320,65,Female,Eastern Cape,Savings,20,67,122349.47,500,Churned
+321,51,Female,Northern Cape,Business,1,8,129602.86,730,Active
+322,43,Male,Eastern Cape,Student,20,22,151968.85,849,Active
+323,24,Female,Mpumalanga,Savings,4,22,196794.21,791,Churned
+324,18,Female,Eastern Cape,Student,8,38,18197.59,561,Active
+325,59,Female,KwaZulu-Natal,Student,1,57,83171.08,723,Active
+326,66,Female,KwaZulu-Natal,Student,13,61,1873.7,601,Active
+327,50,Male,Northern Cape,Student,7,49,55018.2,662,Active
+328,54,Male,Eastern Cape,Business,17,41,204642.56,482,Churned
+329,30,Female,Free State,Savings,14,45,98946.73,318,Active
+330,29,Male,North West,Savings,16,33,206035.7,402,Churned
+331,44,Male,KwaZulu-Natal,Current,14,30,64773.0,623,Active
+332,54,Female,Eastern Cape,Business,19,28,137621.12,412,Active
+333,58,Male,Western Cape,Business,7,2,167308.88,404,Active
+334,26,Female,Limpopo,Business,7,28,43376.2,753,Active
+335,33,Male,Mpumalanga,Savings,8,2,3420.8,567,Active
+336,32,Female,Northern Cape,Current,5,62,139881.28,522,Active
+337,45,Male,Limpopo,Current,11,18,101272.52,728,Active
+338,47,Male,Mpumalanga,Student,12,32,205694.38,455,Active
+339,28,Male,North West,Business,16,32,93107.52,417,Active
+340,51,Male,Western Cape,Student,5,7,36077.24,492,Churned
+341,52,Female,KwaZulu-Natal,Student,11,11,78148.77,624,Active
+342,29,Female,North West,Business,6,65,26762.17,733,Active
+343,20,Male,Eastern Cape,Current,11,45,96359.57,454,Active
+344,23,Female,Free State,Business,15,30,32946.92,421,Active
+345,40,Male,KwaZulu-Natal,Savings,6,68,248717.06,500,Churned
+346,62,Male,Western Cape,Savings,16,22,135581.2,464,Active
+347,39,Female,Gauteng,Savings,19,3,75932.15,715,Active
+348,63,Male,North West,Savings,12,21,241621.14,658,Active
+349,52,Female,Western Cape,Student,13,11,52223.6,808,Churned
+350,39,Male,Free State,Student,19,37,182839.1,819,Active
+351,36,Female,Mpumalanga,Student,2,11,88688.45,439,Active
+352,22,Male,Eastern Cape,Current,17,56,69304.01,823,Churned
+353,65,Male,North West,Business,12,52,215955.11,527,Active
+354,32,Female,Western Cape,Student,11,64,123335.21,764,Churned
+355,68,Male,North West,Student,15,4,201744.04,462,Active
+356,62,Male,Mpumalanga,Student,17,72,16083.17,622,Active
+357,67,Female,Western Cape,Savings,11,67,173286.84,619,Active
+358,41,Female,North West,Current,3,56,132380.24,602,Churned
+359,66,Male,Gauteng,Business,8,71,1078.23,364,Active
+360,54,Male,KwaZulu-Natal,Business,13,8,192346.23,427,Churned
+361,19,Male,Limpopo,Business,8,23,122163.14,683,Active
+362,52,Male,Limpopo,Student,8,3,158206.41,589,Active
+363,19,Female,Western Cape,Current,8,17,125405.75,679,Active
+364,43,Male,North West,Business,13,56,74174.98,807,Churned
+365,31,Male,Free State,Business,7,53,210636.57,532,Active
+366,36,Female,North West,Current,17,55,126019.45,745,Active
+367,69,Female,Free State,Student,20,32,131806.48,477,Active
+368,32,Male,Western Cape,Current,4,77,229239.53,765,Active
+369,51,Female,Western Cape,Student,11,76,100910.44,740,Active
+370,39,Male,Northern Cape,Savings,6,50,117008.52,689,Active
+371,60,Female,Eastern Cape,Savings,19,9,210756.62,727,Active
+372,36,Male,Gauteng,Student,17,70,94640.85,720,Active
+373,44,Male,North West,Student,10,47,42154.8,534,Active
+374,28,Male,Free State,Current,17,68,175783.86,832,Active
+375,34,Female,Eastern Cape,Student,5,48,96587.47,654,Active
+376,58,Female,Northern Cape,Savings,7,13,104417.86,696,Active
+377,55,Male,Western Cape,Savings,11,54,220099.11,399,Active
+378,41,Female,Free State,Student,8,7,31868.21,302,Active
+379,57,Male,Limpopo,Current,1,21,72208.69,526,Active
+380,27,Female,Western Cape,Current,12,47,208952.32,824,Active
+381,34,Male,Limpopo,Student,4,14,103703.85,686,Active
+382,41,Male,KwaZulu-Natal,Business,11,25,240893.06,487,Active
+383,45,Male,Northern Cape,Current,16,47,55341.43,801,Active
+384,54,Male,Mpumalanga,Student,6,7,4879.31,800,Active
+385,29,Male,North West,Savings,16,43,165920.33,527,Churned
+386,40,Male,Western Cape,Current,8,45,99802.32,494,Active
+387,45,Female,Northern Cape,Business,13,79,15399.26,517,Active
+388,22,Male,Mpumalanga,Current,20,50,161325.5,839,Active
+389,43,Female,KwaZulu-Natal,Business,10,45,69421.21,760,Churned
+390,48,Female,Northern Cape,Business,11,65,86625.46,401,Active
+391,48,Male,North West,Current,9,46,16019.7,304,Active
+392,50,Female,Free State,Current,18,38,132650.1,314,Active
+393,22,Female,Eastern Cape,Current,6,38,232200.74,745,Active
+394,23,Male,Western Cape,Business,8,44,224469.83,460,Active
+395,48,Female,Northern Cape,Student,12,70,27668.88,551,Churned
+396,28,Female,Limpopo,Student,5,18,148593.45,610,Active
+397,61,Male,Free State,Student,19,29,227020.75,653,Active
+398,19,Female,Gauteng,Business,2,8,40837.02,307,Active
+399,56,Male,Free State,Current,17,59,240061.86,392,Active
+400,53,Female,North West,Current,5,28,57554.86,470,Active
+401,25,Male,KwaZulu-Natal,Savings,16,22,107461.15,648,Active
+402,44,Female,KwaZulu-Natal,Savings,2,1,11705.37,626,Active
+403,47,Male,Western Cape,Student,3,78,155698.87,415,Active
+404,18,Female,Northern Cape,Savings,18,1,48302.44,703,Active
+405,22,Male,Free State,Business,1,17,37470.39,555,Active
+406,29,Male,North West,Savings,19,19,36381.68,498,Churned
+407,38,Female,North West,Savings,14,4,205878.63,383,Active
+408,65,Female,Eastern Cape,Savings,19,46,52165.41,804,Active
+409,18,Male,North West,Student,3,24,206773.32,488,Active
+410,59,Female,KwaZulu-Natal,Business,4,67,129157.02,732,Active
+411,62,Female,Limpopo,Savings,5,53,191503.91,808,Active
+412,27,Male,Eastern Cape,Current,8,7,51292.81,384,Active
+413,64,Male,Free State,Savings,4,76,56461.22,810,Active
+414,40,Male,Northern Cape,Current,18,30,81661.14,836,Active
+415,65,Male,North West,Savings,15,39,55511.86,321,Active
+416,33,Male,Gauteng,Business,10,74,5657.51,461,Active
+417,49,Male,Free State,Savings,10,17,150587.69,735,Active
+418,55,Female,Western Cape,Student,17,65,177268.18,380,Churned
+419,32,Male,Northern Cape,Savings,7,70,230288.13,706,Active
+420,51,Male,Eastern Cape,Savings,9,73,86662.82,561,Active
+421,66,Male,KwaZulu-Natal,Student,12,47,109113.39,491,Active
+422,49,Female,Gauteng,Current,4,18,4507.44,342,Churned
+423,51,Male,Free State,Business,4,59,125521.43,467,Active
+424,33,Female,Northern Cape,Student,6,13,240397.58,782,Churned
+425,48,Male,Free State,Student,4,44,72866.36,675,Churned
+426,24,Female,North West,Student,14,56,233856.63,478,Active
+427,50,Female,Gauteng,Current,17,12,72264.37,630,Active
+428,50,Male,Gauteng,Current,5,57,219557.13,368,Active
+429,67,Male,KwaZulu-Natal,Savings,16,19,169546.47,749,Active
+430,30,Male,Limpopo,Savings,20,54,183504.94,514,Active
+431,37,Male,Gauteng,Current,18,63,108288.72,691,Active
+432,23,Male,Gauteng,Business,5,28,101198.45,381,Active
+433,66,Female,Western Cape,Student,12,71,66436.93,397,Active
+434,41,Male,Limpopo,Student,10,38,242150.06,738,Active
+435,44,Male,Western Cape,Current,9,54,174101.47,702,Active
+436,51,Female,Limpopo,Savings,3,6,63097.81,372,Active
+437,53,Male,Limpopo,Business,2,29,43933.38,453,Active
+438,65,Male,KwaZulu-Natal,Business,4,30,170187.92,583,Active
+439,66,Female,Limpopo,Student,9,36,234943.05,719,Active
+440,55,Female,Free State,Business,17,74,2575.83,353,Active
+441,42,Female,Eastern Cape,Student,15,15,204404.45,678,Active
+442,45,Male,North West,Business,17,43,159603.22,469,Active
+443,66,Female,Western Cape,Student,15,52,3929.52,665,Active
+444,28,Female,Mpumalanga,Current,18,67,54228.42,460,Active
+445,35,Female,Eastern Cape,Current,6,19,123628.5,618,Active
+446,55,Male,Limpopo,Business,1,8,17580.45,789,Active
+447,42,Female,Free State,Current,7,60,92428.01,848,Active
+448,60,Male,Western Cape,Current,6,40,110915.11,551,Active
+449,39,Male,Limpopo,Student,11,58,5967.38,513,Active
+450,21,Female,Free State,Student,15,1,191227.96,420,Active
+451,46,Male,KwaZulu-Natal,Business,5,74,235661.56,541,Churned
+452,52,Female,Mpumalanga,Savings,4,69,2487.12,439,Active
+453,38,Male,KwaZulu-Natal,Current,20,25,207115.15,843,Churned
+454,59,Male,Northern Cape,Current,17,58,235309.64,396,Active
+455,68,Female,Mpumalanga,Savings,13,35,87548.07,724,Churned
+456,29,Male,Mpumalanga,Savings,16,67,103921.76,756,Active
+457,49,Female,Free State,Current,14,23,107687.34,546,Active
+458,61,Male,Eastern Cape,Current,18,22,135571.72,713,Active
+459,27,Female,Mpumalanga,Business,15,36,30044.55,533,Active
+460,64,Male,Gauteng,Current,19,15,187472.92,662,Active
+461,50,Male,Western Cape,Current,19,67,174259.24,474,Active
+462,68,Male,Free State,Student,13,1,158039.02,538,Active
+463,46,Male,Eastern Cape,Business,7,26,128315.05,568,Active
+464,66,Male,Eastern Cape,Business,7,53,194234.08,828,Churned
+465,46,Female,Northern Cape,Student,11,32,178803.0,443,Active
+466,18,Male,Eastern Cape,Current,16,41,121531.12,498,Active
+467,58,Female,Eastern Cape,Student,13,15,116844.28,841,Active
+468,65,Male,KwaZulu-Natal,Savings,2,8,219398.94,484,Active
+469,66,Male,Eastern Cape,Business,13,66,128585.37,634,Active
+470,20,Male,Western Cape,Current,14,64,152298.03,806,Active
+471,66,Female,Northern Cape,Student,9,31,201221.41,616,Active
+472,25,Female,KwaZulu-Natal,Savings,9,58,195599.01,728,Active
+473,52,Female,Limpopo,Savings,5,64,178452.35,391,Active
+474,34,Female,Limpopo,Student,16,3,108574.2,789,Active
+475,25,Female,Gauteng,Current,8,59,46750.51,536,Active
+476,19,Female,Limpopo,Savings,18,12,111242.87,617,Active
+477,64,Male,Free State,Current,3,38,187184.09,360,Active
+478,63,Female,Mpumalanga,Business,13,27,149028.16,736,Churned
+479,23,Male,Limpopo,Current,20,76,38076.72,691,Active
+480,38,Female,Limpopo,Savings,3,79,139555.62,419,Churned
+481,63,Female,North West,Business,8,29,109386.69,376,Churned
+482,50,Male,Eastern Cape,Savings,6,48,206749.69,598,Churned
+483,44,Male,Limpopo,Business,3,15,76355.55,758,Active
+484,47,Female,Gauteng,Student,16,35,4427.86,714,Active
+485,53,Male,Eastern Cape,Savings,15,58,141067.14,507,Active
+486,21,Male,North West,Business,19,43,169193.29,575,Active
+487,63,Male,Free State,Student,2,55,154822.5,490,Active
+488,67,Male,Western Cape,Business,4,42,178917.49,313,Active
+489,35,Male,Northern Cape,Savings,11,21,158095.06,642,Active
+490,27,Female,Limpopo,Current,19,65,159167.11,559,Active
+491,67,Male,Mpumalanga,Business,15,46,42847.24,703,Active
+492,60,Male,North West,Current,15,12,113990.67,831,Churned
+493,47,Female,North West,Business,13,77,146332.7,737,Active
+494,39,Female,Mpumalanga,Student,20,8,17098.64,639,Churned
+495,62,Female,Northern Cape,Business,15,56,49565.07,480,Churned
+496,68,Female,Free State,Current,20,37,224392.78,522,Churned
+497,63,Male,Eastern Cape,Current,20,53,243848.11,363,Churned
+498,28,Female,KwaZulu-Natal,Business,2,50,104346.41,575,Active
+499,54,Male,North West,Business,20,3,246333.31,595,Active
+500,63,Female,KwaZulu-Natal,Savings,8,56,32854.91,338,Active
+501,43,Female,Mpumalanga,Business,4,64,19581.75,675,Active
+502,45,Female,North West,Business,14,62,34718.55,785,Active
+503,61,Male,Northern Cape,Business,16,60,122214.66,444,Active
+504,59,Male,North West,Savings,2,9,48086.13,388,Active
+505,32,Male,Northern Cape,Student,10,15,11717.88,802,Churned
+506,37,Female,Eastern Cape,Student,18,77,185539.54,746,Active
+507,24,Male,Northern Cape,Student,3,48,101997.8,738,Active
+508,57,Male,Limpopo,Student,13,6,142147.97,487,Active
+509,56,Female,North West,Student,8,25,185529.85,486,Active
+510,47,Female,North West,Business,3,28,122945.87,705,Active
+511,25,Female,Gauteng,Business,6,78,63573.21,686,Churned
+512,48,Female,Free State,Current,5,62,247136.15,426,Active
+513,37,Male,Limpopo,Student,7,22,188043.2,575,Active
+514,50,Male,Mpumalanga,Current,1,15,50276.58,357,Active
+515,25,Male,Mpumalanga,Current,8,59,59917.59,528,Active
+516,35,Female,Western Cape,Savings,17,30,249889.65,797,Active
+517,60,Male,KwaZulu-Natal,Current,16,55,161826.81,766,Active
+518,61,Male,Gauteng,Student,20,30,138014.41,607,Churned
+519,52,Female,Northern Cape,Savings,11,9,84333.76,439,Active
+520,25,Female,Eastern Cape,Business,8,27,43787.26,620,Active
+521,56,Male,North West,Business,11,17,53089.97,805,Active
+522,23,Male,Gauteng,Business,18,37,187481.79,798,Active
+523,68,Male,Mpumalanga,Student,11,49,83385.29,749,Active
+524,34,Male,Free State,Business,6,19,48481.32,327,Churned
+525,69,Female,Gauteng,Savings,4,49,70763.2,357,Active
+526,53,Male,North West,Student,14,58,69893.22,509,Churned
+527,33,Female,North West,Business,18,4,50023.52,436,Active
+528,31,Female,Northern Cape,Current,13,25,228351.55,549,Active
+529,37,Female,Gauteng,Business,8,10,44709.53,451,Churned
+530,52,Female,KwaZulu-Natal,Student,12,53,62739.82,461,Churned
+531,40,Female,Eastern Cape,Current,4,48,172918.43,428,Active
+532,38,Male,KwaZulu-Natal,Current,20,49,205712.41,768,Active
+533,32,Male,Free State,Current,14,52,183603.84,324,Active
+534,66,Female,Eastern Cape,Current,11,47,4286.63,390,Churned
+535,57,Female,Mpumalanga,Business,3,40,100179.94,644,Churned
+536,22,Female,Free State,Savings,13,53,116263.43,355,Active
+537,65,Female,Mpumalanga,Current,2,65,175076.45,329,Churned
+538,30,Female,Northern Cape,Business,8,63,140533.29,737,Active
+539,48,Male,Gauteng,Savings,15,34,13062.21,738,Active
+540,59,Male,North West,Current,10,21,186422.28,321,Active
+541,64,Female,Limpopo,Business,17,17,139548.99,465,Active
+542,63,Male,Free State,Student,14,72,202197.23,808,Active
+543,52,Female,Free State,Current,6,69,233470.48,706,Active
+544,37,Male,Mpumalanga,Student,6,70,163712.96,445,Active
+545,61,Male,KwaZulu-Natal,Student,15,19,193506.24,718,Active
+546,52,Male,Western Cape,Savings,16,44,203760.42,616,Active
+547,52,Female,KwaZulu-Natal,Student,4,13,133149.43,427,Active
+548,33,Female,Eastern Cape,Current,16,62,39492.79,583,Active
+549,25,Female,Mpumalanga,Student,15,43,65954.57,786,Active
+550,61,Female,Free State,Savings,19,57,71782.05,757,Active
+551,46,Male,Limpopo,Student,7,60,111254.01,681,Active
+552,63,Female,North West,Current,12,4,192147.98,305,Active
+553,49,Male,Gauteng,Student,9,74,143474.03,675,Active
+554,21,Female,Eastern Cape,Current,4,41,53116.11,715,Active
+555,18,Female,Mpumalanga,Current,20,22,195932.85,814,Churned
+556,50,Male,KwaZulu-Natal,Student,18,73,45705.23,382,Churned
+557,40,Female,Mpumalanga,Business,2,25,199404.16,789,Active
+558,58,Male,Free State,Current,14,48,41173.27,398,Active
+559,62,Female,Western Cape,Current,7,64,70333.22,557,Churned
+560,28,Female,Northern Cape,Student,16,18,214559.8,486,Active
+561,60,Female,Western Cape,Current,15,48,174580.22,632,Active
+562,44,Male,Gauteng,Business,15,72,226108.7,311,Active
+563,34,Female,Mpumalanga,Student,4,8,232634.41,474,Churned
+564,31,Male,Eastern Cape,Business,10,71,13297.82,423,Active
+565,53,Female,Free State,Business,15,46,138414.21,760,Active
+566,69,Female,Western Cape,Savings,20,25,67409.5,463,Active
+567,53,Male,KwaZulu-Natal,Current,13,19,174442.34,726,Active
+568,69,Male,Northern Cape,Student,20,36,30966.82,849,Active
+569,26,Male,Western Cape,Savings,4,50,99549.54,577,Active
+570,59,Female,Eastern Cape,Savings,9,7,29761.4,789,Active
+571,38,Female,Western Cape,Student,19,53,192117.36,486,Active
+572,41,Male,North West,Savings,17,16,161392.88,722,Churned
+573,28,Male,Gauteng,Business,4,71,4542.0,605,Active
+574,45,Female,Eastern Cape,Current,1,47,52974.48,685,Active
+575,28,Male,Gauteng,Current,8,50,168622.81,792,Active
+576,19,Female,Northern Cape,Student,17,16,1848.53,329,Active
+577,27,Male,Free State,Current,10,40,81292.98,660,Active
+578,33,Female,Western Cape,Student,13,22,30940.85,662,Active
+579,43,Male,Western Cape,Student,2,12,83326.89,500,Active
+580,37,Female,Limpopo,Business,7,60,194475.14,734,Active
+581,19,Female,Mpumalanga,Student,14,66,13078.99,823,Active
+582,38,Female,North West,Current,10,78,210035.18,427,Churned
+583,53,Female,Gauteng,Savings,13,36,181846.29,655,Active
+584,53,Female,Free State,Student,20,18,145508.26,779,Active
+585,38,Male,Mpumalanga,Current,8,78,110870.45,695,Active
+586,24,Male,Western Cape,Savings,14,32,203451.9,700,Churned
+587,62,Male,Eastern Cape,Current,20,78,29995.55,544,Active
+588,40,Male,Limpopo,Business,8,13,239429.1,590,Churned
+589,42,Female,Mpumalanga,Student,2,45,247214.47,371,Active
+590,28,Male,KwaZulu-Natal,Current,7,54,111303.84,353,Churned
+591,20,Male,KwaZulu-Natal,Current,1,58,119377.09,428,Active
+592,25,Male,KwaZulu-Natal,Savings,16,51,91485.33,487,Active
+593,37,Male,Northern Cape,Current,9,39,218278.43,401,Active
+594,45,Female,North West,Current,20,53,199228.88,342,Active
+595,43,Female,North West,Business,16,26,74869.87,376,Active
+596,65,Female,Limpopo,Current,7,51,146604.13,738,Active
+597,60,Male,Eastern Cape,Student,19,64,100092.12,668,Active
+598,25,Female,Northern Cape,Student,20,47,91523.21,566,Churned
+599,43,Female,Northern Cape,Savings,6,12,89976.08,720,Active
+600,42,Female,Limpopo,Savings,20,4,99286.34,604,Active
+601,40,Male,Limpopo,Savings,13,23,79836.65,666,Active
+602,36,Male,Eastern Cape,Student,1,36,41930.1,846,Active
+603,63,Female,Free State,Student,20,45,29228.97,516,Active
+604,69,Male,Western Cape,Savings,6,64,203523.97,789,Active
+605,58,Female,KwaZulu-Natal,Savings,10,10,65986.41,795,Active
+606,18,Male,Limpopo,Current,12,53,169067.52,815,Active
+607,21,Female,North West,Business,1,71,149009.82,756,Active
+608,53,Female,Eastern Cape,Business,18,43,141679.71,676,Active
+609,48,Female,Mpumalanga,Savings,4,37,20613.54,603,Active
+610,21,Female,Free State,Business,11,66,157708.24,521,Active
+611,24,Female,North West,Student,1,58,246943.51,389,Active
+612,39,Female,Gauteng,Current,19,18,145370.98,656,Active
+613,54,Male,Gauteng,Business,12,27,85790.9,545,Active
+614,32,Male,Mpumalanga,Business,2,52,6515.49,471,Active
+615,35,Female,KwaZulu-Natal,Business,12,38,54475.03,663,Active
+616,35,Male,Mpumalanga,Savings,4,22,54934.5,682,Active
+617,38,Male,Gauteng,Savings,16,14,41574.79,523,Active
+618,62,Male,Mpumalanga,Current,5,69,191041.22,779,Churned
+619,32,Female,Eastern Cape,Current,7,29,3579.09,686,Active
+620,29,Female,Mpumalanga,Current,15,38,128171.01,446,Churned
+621,37,Male,Eastern Cape,Student,15,4,2329.87,750,Active
+622,26,Female,Western Cape,Savings,14,77,28828.39,626,Active
+623,39,Female,North West,Savings,17,44,11873.5,790,Active
+624,42,Male,KwaZulu-Natal,Savings,18,12,246015.86,793,Active
+625,40,Female,Western Cape,Business,11,6,171236.41,726,Active
+626,45,Female,KwaZulu-Natal,Student,19,56,102991.81,410,Active
+627,50,Female,North West,Student,4,46,247140.73,622,Churned
+628,56,Male,Western Cape,Current,13,13,42791.27,447,Active
+629,27,Male,Northern Cape,Business,13,47,230647.35,794,Active
+630,28,Female,North West,Savings,19,35,81568.24,837,Churned
+631,18,Female,Mpumalanga,Student,19,43,244566.06,739,Active
+632,45,Male,Eastern Cape,Current,1,19,130710.14,552,Active
+633,52,Female,Eastern Cape,Student,8,38,100983.5,642,Active
+634,62,Female,Free State,Savings,14,72,40104.82,513,Churned
+635,58,Male,Mpumalanga,Student,1,6,89182.11,363,Active
+636,47,Male,Mpumalanga,Business,13,18,144110.56,524,Active
+637,62,Female,Limpopo,Business,12,47,6787.17,434,Active
+638,26,Male,Gauteng,Business,13,57,199162.78,389,Active
+639,37,Male,Limpopo,Business,5,17,173657.34,836,Active
+640,55,Male,Eastern Cape,Savings,6,45,80013.06,467,Active
+641,41,Female,Gauteng,Student,19,18,178746.32,643,Active
+642,42,Female,Western Cape,Savings,13,49,215485.39,790,Active
+643,36,Female,Eastern Cape,Savings,19,25,187590.05,798,Active
+644,51,Female,Free State,Current,16,55,96490.78,644,Active
+645,23,Female,Northern Cape,Student,9,48,44742.98,586,Active
+646,35,Male,Northern Cape,Current,20,73,151407.44,815,Active
+647,21,Female,Western Cape,Business,17,16,83528.83,368,Active
+648,19,Male,North West,Business,13,4,249238.88,629,Active
+649,65,Male,KwaZulu-Natal,Student,14,9,34838.62,566,Active
+650,30,Female,Limpopo,Student,12,37,60147.06,372,Active
+651,40,Female,Eastern Cape,Savings,7,40,201036.93,450,Active
+652,48,Male,Mpumalanga,Student,18,20,98692.06,508,Active
+653,59,Female,Eastern Cape,Current,6,67,78391.34,491,Active
+654,64,Male,Gauteng,Business,16,68,198866.98,791,Churned
+655,55,Male,Limpopo,Student,4,7,6879.66,604,Active
+656,68,Male,Western Cape,Student,8,42,136707.92,472,Churned
+657,42,Male,Mpumalanga,Savings,6,24,24828.17,433,Active
+658,63,Male,Limpopo,Savings,11,26,61271.0,781,Active
+659,31,Male,North West,Business,19,48,82541.24,483,Active
+660,37,Female,KwaZulu-Natal,Business,16,59,200909.6,490,Active
+661,20,Female,Mpumalanga,Savings,13,7,179507.52,763,Churned
+662,28,Male,Gauteng,Business,10,33,47704.35,783,Active
+663,65,Male,KwaZulu-Natal,Current,5,48,207475.9,671,Churned
+664,65,Female,Limpopo,Business,17,24,35242.09,349,Active
+665,32,Male,Northern Cape,Current,18,36,58651.67,686,Active
+666,41,Male,Gauteng,Current,8,61,35243.89,521,Churned
+667,32,Male,Mpumalanga,Business,12,78,86350.86,397,Active
+668,42,Male,Northern Cape,Student,6,14,245693.52,609,Active
+669,47,Female,Gauteng,Business,20,61,196373.45,590,Churned
+670,34,Female,Limpopo,Savings,16,58,11992.73,431,Active
+671,56,Male,North West,Savings,5,69,230212.5,827,Active
+672,22,Female,Western Cape,Business,10,57,26798.62,641,Churned
+673,46,Female,KwaZulu-Natal,Savings,6,18,180834.76,396,Active
+674,35,Male,KwaZulu-Natal,Student,11,59,155521.99,583,Active
+675,23,Male,North West,Current,16,34,13930.72,771,Active
+676,30,Female,Mpumalanga,Current,17,43,169058.9,725,Churned
+677,68,Female,Mpumalanga,Student,2,58,9905.58,370,Active
+678,23,Male,Free State,Current,1,68,248037.84,351,Churned
+679,31,Female,KwaZulu-Natal,Student,9,47,101168.5,734,Active
+680,44,Female,Mpumalanga,Business,6,72,77300.88,540,Active
+681,39,Female,Eastern Cape,Savings,3,62,94528.29,833,Churned
+682,59,Female,Gauteng,Current,2,65,238374.02,411,Active
+683,31,Male,Gauteng,Student,15,56,31063.22,781,Churned
+684,38,Female,Limpopo,Student,6,37,43383.19,518,Active
+685,43,Male,Mpumalanga,Business,16,65,209187.02,470,Active
+686,61,Female,Mpumalanga,Student,7,79,219664.76,751,Active
+687,36,Female,Limpopo,Student,2,10,48971.26,380,Active
+688,58,Male,Western Cape,Current,20,1,39365.43,800,Active
+689,62,Female,Gauteng,Business,1,23,237729.26,760,Churned
+690,53,Female,Mpumalanga,Current,13,55,98358.34,484,Active
+691,50,Male,Eastern Cape,Business,16,38,95713.32,633,Active
+692,46,Male,Western Cape,Business,2,41,133011.82,814,Churned
+693,24,Male,Mpumalanga,Current,9,1,140685.02,479,Active
+694,51,Male,Eastern Cape,Student,4,21,95839.81,508,Active
+695,29,Female,Western Cape,Current,16,41,131757.59,583,Active
+696,19,Female,Gauteng,Business,4,71,103570.3,514,Active
+697,27,Female,North West,Current,5,48,60580.55,465,Active
+698,50,Female,Gauteng,Savings,17,57,2008.74,617,Churned
+699,67,Male,North West,Current,16,40,178816.57,640,Active
+700,62,Male,Northern Cape,Current,17,18,182353.02,400,Active
+701,66,Male,Free State,Business,4,20,145990.39,406,Active
+702,36,Male,Western Cape,Student,20,26,106230.64,453,Active
+703,20,Male,Gauteng,Business,2,42,138612.85,476,Active
+704,43,Female,North West,Savings,3,72,198586.82,345,Active
+705,18,Female,Mpumalanga,Student,17,25,100768.13,763,Active
+706,23,Female,Mpumalanga,Savings,16,20,47011.74,532,Active
+707,43,Male,Western Cape,Current,13,63,26978.33,367,Active
+708,61,Female,KwaZulu-Natal,Student,17,12,240544.47,581,Active
+709,19,Female,Western Cape,Student,10,73,89811.32,504,Active
+710,37,Female,Eastern Cape,Current,14,3,123344.39,621,Churned
+711,61,Female,KwaZulu-Natal,Business,14,6,124564.84,655,Active
+712,47,Male,Free State,Business,19,71,139096.57,318,Active
+713,54,Male,Free State,Business,16,7,211963.13,822,Active
+714,54,Female,Free State,Savings,9,15,35566.51,828,Active
+715,28,Male,Limpopo,Student,6,72,232184.92,846,Active
+716,63,Female,Free State,Current,2,41,205499.57,815,Active
+717,21,Female,Limpopo,Student,18,69,31464.79,311,Active
+718,68,Male,Free State,Student,11,63,6678.84,301,Active
+719,27,Female,Limpopo,Current,20,8,193717.66,759,Active
+720,38,Male,Northern Cape,Savings,12,50,17895.0,319,Churned
+721,43,Male,Limpopo,Savings,6,38,9659.88,385,Active
+722,68,Male,North West,Current,18,38,121511.99,565,Active
+723,38,Female,Northern Cape,Student,7,33,107572.8,651,Churned
+724,59,Female,Mpumalanga,Savings,10,26,116830.19,356,Active
+725,48,Male,Western Cape,Student,7,33,211076.37,829,Active
+726,52,Female,Free State,Current,19,18,83440.46,387,Active
+727,40,Male,North West,Savings,20,49,241585.44,485,Active
+728,21,Male,Limpopo,Student,10,19,171451.04,574,Active
+729,18,Male,Limpopo,Savings,12,24,105074.48,829,Churned
+730,36,Male,Free State,Current,3,58,128928.18,407,Churned
+731,29,Male,North West,Current,2,7,233175.39,387,Active
+732,26,Male,Free State,Current,15,13,162346.4,629,Active
+733,67,Male,KwaZulu-Natal,Savings,15,7,190219.82,715,Active
+734,23,Male,Free State,Student,1,4,56834.49,325,Churned
+735,62,Male,KwaZulu-Natal,Student,13,40,51898.42,443,Active
+736,33,Male,Northern Cape,Student,10,25,2689.91,656,Active
+737,22,Female,Western Cape,Savings,20,54,155485.99,398,Active
+738,56,Male,Gauteng,Business,10,58,91169.28,341,Active
+739,58,Male,Free State,Savings,8,51,51598.2,676,Active
+740,36,Female,North West,Student,19,10,76470.36,303,Churned
+741,42,Female,Eastern Cape,Current,12,36,157403.79,820,Churned
+742,51,Female,KwaZulu-Natal,Savings,9,78,98741.91,724,Active
+743,51,Female,Eastern Cape,Current,10,1,42421.0,667,Churned
+744,59,Male,Northern Cape,Student,7,49,85066.72,449,Active
+745,24,Male,North West,Student,2,49,173084.17,546,Active
+746,68,Male,KwaZulu-Natal,Student,11,55,227527.57,679,Active
+747,47,Female,Northern Cape,Current,12,30,241693.18,513,Active
+748,66,Male,Limpopo,Savings,12,55,8088.76,343,Active
+749,37,Male,Western Cape,Savings,15,23,242975.4,464,Active
+750,30,Female,KwaZulu-Natal,Student,19,30,153958.63,505,Active
+751,36,Male,Western Cape,Current,13,44,57256.66,727,Active
+752,22,Female,Limpopo,Business,10,42,82643.04,530,Churned
+753,68,Male,Gauteng,Savings,8,65,180253.96,377,Active
+754,34,Female,Limpopo,Business,5,58,34041.14,778,Active
+755,36,Male,KwaZulu-Natal,Current,4,50,3123.05,745,Active
+756,61,Male,North West,Current,10,6,227261.92,370,Active
+757,40,Female,Free State,Current,20,20,137052.53,324,Churned
+758,64,Male,Eastern Cape,Current,6,57,70112.57,683,Active
+759,38,Male,KwaZulu-Natal,Student,3,40,39052.95,536,Active
+760,61,Male,Gauteng,Business,13,56,241656.33,497,Active
+761,26,Male,KwaZulu-Natal,Savings,17,66,234441.13,803,Active
+762,34,Male,Western Cape,Savings,15,2,112760.95,318,Active
+763,24,Male,Free State,Current,17,39,101708.49,728,Active
+764,29,Male,Western Cape,Current,4,29,57201.63,606,Active
+765,36,Male,Northern Cape,Business,12,17,213035.56,578,Active
+766,45,Male,Gauteng,Savings,3,27,85846.32,375,Active
+767,18,Female,Limpopo,Current,10,47,36314.42,395,Active
+768,65,Male,Western Cape,Student,14,32,143014.2,829,Active
+769,25,Male,Northern Cape,Business,2,71,97497.72,807,Active
+770,26,Female,KwaZulu-Natal,Business,14,72,241700.19,846,Active
+771,37,Female,KwaZulu-Natal,Savings,12,66,131760.46,449,Active
+772,55,Male,Free State,Student,4,79,96878.78,300,Active
+773,67,Female,Gauteng,Student,10,12,128763.44,749,Active
+774,24,Male,Western Cape,Student,9,34,16491.63,785,Churned
+775,32,Female,Limpopo,Current,14,70,211031.31,715,Active
+776,68,Female,KwaZulu-Natal,Current,3,76,121145.69,818,Active
+777,56,Male,Eastern Cape,Savings,17,52,53778.94,624,Active
+778,41,Male,Free State,Student,6,4,217960.68,782,Churned
+779,65,Female,Limpopo,Savings,3,56,126728.49,595,Active
+780,53,Female,Limpopo,Business,8,2,2951.97,479,Active
+781,60,Male,Northern Cape,Savings,3,60,111858.43,383,Churned
+782,62,Female,Eastern Cape,Business,12,13,228817.06,652,Active
+783,22,Female,Mpumalanga,Savings,11,71,43952.09,415,Active
+784,19,Female,Northern Cape,Student,6,41,31591.04,831,Active
+785,24,Male,Limpopo,Current,7,17,114041.37,625,Active
+786,19,Female,Western Cape,Business,20,79,161155.04,348,Active
+787,22,Male,Western Cape,Business,7,18,159921.27,672,Churned
+788,50,Male,Free State,Business,16,54,146466.27,813,Active
+789,45,Female,Mpumalanga,Current,7,45,185703.54,488,Active
+790,64,Male,Eastern Cape,Savings,6,69,235774.2,523,Active
+791,46,Male,KwaZulu-Natal,Business,19,39,249419.23,302,Active
+792,50,Female,Western Cape,Business,6,58,19202.53,320,Active
+793,53,Male,Gauteng,Savings,11,65,128799.64,590,Active
+794,60,Male,Free State,Savings,6,67,53559.74,509,Active
+795,19,Female,KwaZulu-Natal,Current,2,60,196175.69,714,Active
+796,38,Female,Free State,Savings,17,70,228512.13,686,Active
+797,43,Male,Free State,Business,6,26,79259.29,570,Active
+798,69,Female,Limpopo,Business,15,13,112534.92,610,Active
+799,55,Male,Mpumalanga,Student,6,46,234446.53,755,Active
+800,55,Female,Western Cape,Savings,8,63,6733.53,547,Active
+801,46,Female,KwaZulu-Natal,Student,16,9,23292.63,693,Active
+802,62,Female,Limpopo,Business,5,71,147155.71,392,Active
+803,31,Male,Eastern Cape,Savings,1,73,71372.57,515,Churned
+804,60,Male,Western Cape,Savings,8,5,223331.88,341,Active
+805,26,Male,Limpopo,Savings,1,74,128452.42,424,Churned
+806,19,Female,KwaZulu-Natal,Savings,18,2,14525.37,703,Churned
+807,18,Male,Mpumalanga,Business,17,1,8736.48,777,Active
+808,41,Female,Eastern Cape,Student,12,45,228751.32,748,Active
+809,45,Female,Northern Cape,Current,4,16,188553.18,542,Active
+810,28,Male,Western Cape,Current,1,79,123604.97,598,Churned
+811,56,Female,Mpumalanga,Savings,9,50,141366.22,614,Active
+812,43,Female,Western Cape,Savings,1,48,164312.39,754,Active
+813,53,Female,KwaZulu-Natal,Savings,13,1,117530.41,846,Active
+814,42,Female,North West,Business,16,58,128558.5,624,Active
+815,62,Male,Western Cape,Current,20,53,136473.08,367,Churned
+816,33,Female,Mpumalanga,Business,9,18,134550.28,320,Active
+817,56,Male,Free State,Current,17,60,142589.57,372,Active
+818,69,Female,Eastern Cape,Student,16,14,244998.88,398,Active
+819,19,Female,Mpumalanga,Current,19,41,195284.48,528,Churned
+820,29,Male,Gauteng,Savings,3,5,190651.34,405,Active
+821,62,Female,Northern Cape,Savings,10,9,156216.3,399,Churned
+822,67,Female,Western Cape,Current,14,25,64659.51,456,Active
+823,66,Female,Western Cape,Current,12,75,163244.14,361,Active
+824,37,Female,Free State,Student,16,57,53252.1,761,Active
+825,61,Female,Eastern Cape,Current,2,5,34368.59,533,Active
+826,67,Female,Western Cape,Current,12,29,204080.97,552,Active
+827,20,Male,Mpumalanga,Business,14,68,104332.16,440,Churned
+828,26,Female,Western Cape,Student,2,61,36333.53,471,Active
+829,35,Male,Northern Cape,Current,13,69,111748.71,629,Active
+830,54,Male,North West,Savings,7,70,145768.24,696,Active
+831,23,Male,Western Cape,Current,11,60,149055.99,783,Active
+832,35,Female,Western Cape,Business,4,52,4659.55,577,Active
+833,47,Male,Eastern Cape,Savings,8,57,239791.52,414,Churned
+834,28,Male,Western Cape,Current,15,72,172602.92,325,Active
+835,46,Male,Mpumalanga,Business,7,60,179658.01,528,Active
+836,43,Male,Gauteng,Business,12,72,59561.76,581,Active
+837,40,Male,Gauteng,Savings,1,18,51461.99,443,Active
+838,55,Male,Northern Cape,Student,2,6,200304.12,405,Active
+839,45,Female,Limpopo,Current,10,17,116252.1,485,Churned
+840,43,Female,Mpumalanga,Student,7,12,158070.32,577,Churned
+841,67,Female,Western Cape,Savings,13,10,194607.25,550,Active
+842,30,Female,Limpopo,Business,2,51,233184.25,430,Active
+843,65,Male,Eastern Cape,Business,17,19,27815.85,628,Active
+844,47,Male,Northern Cape,Current,4,69,243224.62,328,Churned
+845,54,Male,Eastern Cape,Student,13,48,55564.42,705,Active
+846,32,Male,Western Cape,Student,10,43,91845.22,491,Active
+847,40,Male,Northern Cape,Student,2,38,214605.66,531,Active
+848,18,Male,Limpopo,Business,3,18,92496.93,448,Churned
+849,61,Female,Eastern Cape,Student,4,28,224434.32,678,Active
+850,56,Male,Free State,Business,12,66,50627.38,514,Churned
+851,22,Male,Eastern Cape,Student,3,66,134626.49,722,Active
+852,48,Male,Free State,Savings,11,2,175490.21,838,Churned
+853,22,Female,KwaZulu-Natal,Current,20,45,225846.08,319,Active
+854,42,Male,Free State,Savings,2,32,52942.9,622,Active
+855,36,Female,Free State,Current,12,48,39722.37,670,Active
+856,39,Female,Free State,Student,7,77,8320.0,686,Active
+857,57,Female,KwaZulu-Natal,Student,1,72,130460.1,511,Active
+858,30,Female,Northern Cape,Student,13,39,240791.99,555,Active
+859,67,Male,Free State,Current,18,77,240226.94,826,Active
+860,33,Female,Free State,Student,9,74,218482.67,604,Active
+861,33,Male,Free State,Savings,3,29,189837.6,378,Active
+862,40,Male,North West,Savings,11,58,134154.4,457,Churned
+863,35,Female,Limpopo,Savings,14,33,208069.41,829,Active
+864,36,Male,Gauteng,Student,6,34,83844.36,501,Active
+865,24,Male,Western Cape,Business,16,16,138152.24,823,Active
+866,53,Female,Northern Cape,Current,16,17,46516.58,433,Active
+867,26,Male,Free State,Current,6,3,122575.18,402,Active
+868,62,Female,Limpopo,Business,2,47,13543.64,325,Churned
+869,63,Female,North West,Savings,10,17,130042.14,719,Active
+870,44,Female,North West,Student,20,18,228716.29,436,Active
+871,59,Male,Gauteng,Student,19,30,28854.69,534,Churned
+872,56,Male,Western Cape,Business,4,19,38240.44,714,Active
+873,43,Female,Limpopo,Business,12,2,155328.93,543,Active
+874,43,Male,Free State,Current,19,75,118094.79,422,Active
+875,67,Female,Eastern Cape,Savings,14,74,156460.34,782,Active
+876,56,Female,Eastern Cape,Student,14,56,47243.02,594,Active
+877,39,Female,North West,Savings,20,50,182615.92,368,Active
+878,68,Male,Western Cape,Current,3,21,35974.25,542,Active
+879,39,Female,Mpumalanga,Savings,14,67,220661.09,311,Active
+880,34,Female,Limpopo,Business,7,28,97684.25,457,Churned
+881,41,Female,Western Cape,Student,6,27,36834.35,528,Active
+882,64,Female,Northern Cape,Business,15,75,159848.82,323,Active
+883,45,Female,Western Cape,Current,8,71,100930.33,769,Active
+884,35,Male,Gauteng,Current,8,53,100542.1,774,Churned
+885,47,Male,North West,Student,8,63,93651.61,740,Active
+886,56,Female,Northern Cape,Business,7,78,44521.72,785,Churned
+887,55,Female,Eastern Cape,Student,5,67,125540.1,666,Active
+888,28,Female,Eastern Cape,Current,8,67,97978.04,754,Active
+889,26,Female,Northern Cape,Business,16,41,42113.44,533,Active
+890,56,Male,Free State,Business,15,27,5011.23,490,Active
+891,64,Male,Free State,Savings,14,33,220764.38,638,Churned
+892,35,Female,Northern Cape,Business,11,48,125468.71,520,Churned
+893,19,Female,Gauteng,Business,1,74,147921.13,482,Active
+894,23,Male,North West,Student,12,19,127466.87,556,Active
+895,22,Male,Western Cape,Business,17,8,241664.4,436,Active
+896,32,Female,North West,Business,20,25,73801.72,451,Active
+897,60,Male,North West,Current,3,49,41322.31,435,Active
+898,49,Male,Northern Cape,Savings,15,17,222216.21,607,Active
+899,66,Female,Eastern Cape,Savings,13,21,78983.76,496,Active
+900,30,Male,Gauteng,Savings,1,20,90176.24,601,Active
+901,20,Female,Limpopo,Student,11,12,217936.39,476,Churned
+902,56,Male,North West,Business,14,56,42475.03,355,Active
+903,30,Male,North West,Savings,20,31,159039.27,379,Churned
+904,46,Female,North West,Savings,7,12,3023.55,530,Churned
+905,58,Female,Gauteng,Current,2,77,168565.65,591,Churned
+906,30,Male,KwaZulu-Natal,Current,18,28,200300.27,522,Active
+907,29,Male,Mpumalanga,Savings,5,73,48576.43,569,Active
+908,62,Male,Mpumalanga,Business,5,54,150333.42,598,Active
+909,55,Female,North West,Savings,3,62,185787.68,848,Churned
+910,69,Female,North West,Business,1,42,111016.28,537,Active
+911,59,Female,Gauteng,Student,17,64,220669.08,776,Active
+912,36,Male,Northern Cape,Business,8,38,103726.36,743,Churned
+913,59,Female,Limpopo,Current,16,12,193844.65,402,Active
+914,61,Male,Western Cape,Student,11,35,84418.26,481,Active
+915,25,Male,KwaZulu-Natal,Savings,20,31,235349.09,800,Active
+916,40,Female,North West,Business,9,58,31971.35,737,Active
+917,37,Female,Gauteng,Business,19,78,149021.57,461,Churned
+918,61,Female,Mpumalanga,Current,2,71,24122.91,617,Active
+919,42,Female,Gauteng,Business,3,38,171457.76,412,Active
+920,27,Male,Gauteng,Student,3,18,213066.33,518,Active
+921,40,Male,Western Cape,Student,10,11,162056.19,678,Active
+922,54,Male,Eastern Cape,Business,17,54,187528.76,622,Active
+923,23,Male,Mpumalanga,Current,16,72,67491.98,594,Active
+924,18,Male,Gauteng,Savings,17,36,111203.51,835,Active
+925,47,Male,KwaZulu-Natal,Student,7,71,118876.07,310,Active
+926,45,Female,Gauteng,Student,13,23,87543.17,528,Active
+927,51,Male,Western Cape,Business,7,75,127365.52,427,Active
+928,32,Female,Mpumalanga,Savings,11,34,56803.31,328,Active
+929,54,Female,Free State,Current,17,21,6691.89,830,Active
+930,58,Male,Mpumalanga,Current,11,70,2770.0,625,Active
+931,36,Female,Mpumalanga,Savings,4,58,242653.39,464,Active
+932,42,Male,Gauteng,Savings,1,65,125944.47,829,Active
+933,30,Male,Gauteng,Business,5,65,2619.65,765,Active
+934,63,Male,Limpopo,Savings,4,26,60417.82,808,Active
+935,21,Male,Mpumalanga,Business,4,6,174404.75,417,Active
+936,37,Female,North West,Student,1,14,42770.89,448,Churned
+937,46,Female,Western Cape,Current,8,3,220486.39,652,Churned
+938,63,Female,North West,Business,17,13,12762.52,710,Active
+939,64,Female,Gauteng,Student,19,63,120978.19,761,Active
+940,66,Female,Limpopo,Student,20,64,201873.2,501,Active
+941,41,Male,Free State,Current,12,43,49242.06,454,Active
+942,18,Female,Eastern Cape,Student,6,50,182259.24,424,Active
+943,65,Female,KwaZulu-Natal,Current,6,70,121525.69,405,Active
+944,29,Female,KwaZulu-Natal,Business,6,11,86741.41,850,Active
+945,50,Female,Mpumalanga,Savings,13,18,236991.93,483,Active
+946,58,Male,Limpopo,Business,10,60,169581.54,570,Active
+947,28,Male,Western Cape,Current,15,10,47794.1,356,Churned
+948,69,Female,Free State,Business,9,2,60222.77,342,Active
+949,18,Male,Free State,Student,2,1,202185.28,512,Active
+950,21,Female,KwaZulu-Natal,Savings,12,22,98940.51,585,Active
+951,28,Female,Limpopo,Current,13,24,131027.92,737,Active
+952,18,Female,Limpopo,Business,17,75,216168.55,840,Active
+953,59,Female,Eastern Cape,Savings,11,3,18647.7,486,Churned
+954,59,Female,Western Cape,Current,2,30,6702.45,607,Active
+955,66,Male,KwaZulu-Natal,Savings,1,73,67157.73,655,Active
+956,58,Male,Mpumalanga,Student,18,76,33047.63,466,Active
+957,22,Male,Gauteng,Student,16,1,221766.81,786,Churned
+958,43,Female,Northern Cape,Current,8,61,137646.31,538,Active
+959,41,Female,Western Cape,Student,4,37,141009.51,701,Churned
+960,50,Male,Northern Cape,Student,19,73,142761.71,693,Churned
+961,64,Male,Mpumalanga,Business,15,57,181370.33,805,Active
+962,40,Female,Gauteng,Savings,12,25,44307.15,461,Churned
+963,68,Female,KwaZulu-Natal,Student,6,37,71654.06,468,Active
+964,32,Female,Limpopo,Student,8,26,72166.72,327,Churned
+965,33,Female,Gauteng,Business,19,42,4248.12,821,Active
+966,38,Male,Northern Cape,Current,1,15,79325.99,616,Active
+967,63,Female,Gauteng,Savings,16,33,137861.05,616,Active
+968,18,Male,Gauteng,Savings,5,15,71752.11,834,Active
+969,51,Female,Gauteng,Business,13,14,28080.52,398,Active
+970,26,Female,Gauteng,Business,10,8,83759.2,614,Active
+971,37,Female,Northern Cape,Business,16,73,127416.65,431,Active
+972,26,Female,Western Cape,Student,12,74,233066.21,577,Active
+973,59,Male,Free State,Student,16,76,240567.87,731,Churned
+974,25,Male,Free State,Business,10,46,91148.98,446,Active
+975,37,Female,Northern Cape,Current,20,21,148042.25,477,Active
+976,68,Female,Mpumalanga,Savings,10,68,127123.52,625,Active
+977,36,Male,Mpumalanga,Current,19,70,82088.19,713,Churned
+978,39,Male,Western Cape,Current,19,31,19889.25,322,Active
+979,33,Female,North West,Business,9,28,66361.89,384,Active
+980,58,Male,Gauteng,Savings,16,66,45568.86,677,Active
+981,27,Male,Gauteng,Student,4,10,1718.67,569,Active
+982,52,Male,Western Cape,Savings,2,75,115415.35,584,Churned
+983,48,Male,Eastern Cape,Student,8,42,200484.1,509,Active
+984,45,Female,Eastern Cape,Savings,8,3,65996.32,764,Active
+985,47,Male,KwaZulu-Natal,Student,12,37,15025.27,575,Active
+986,21,Female,Free State,Student,12,40,25168.9,393,Churned
+987,37,Male,Limpopo,Current,4,11,10369.6,372,Active
+988,30,Female,Free State,Current,7,58,32624.23,376,Active
+989,27,Female,Gauteng,Savings,13,58,148449.18,441,Active
+990,41,Male,North West,Student,13,62,220682.53,749,Active
+991,20,Male,Gauteng,Business,12,16,160495.79,358,Active
+992,50,Female,Gauteng,Savings,12,15,217732.53,809,Active
+993,32,Female,Northern Cape,Current,7,15,50132.98,363,Active
+994,61,Female,Limpopo,Student,11,29,187293.71,387,Active
+995,50,Male,Northern Cape,Student,8,25,208821.72,642,Churned
+996,33,Female,KwaZulu-Natal,Current,16,61,60557.79,430,Active
+997,64,Male,Northern Cape,Business,9,67,176586.88,786,Active
+998,28,Male,Eastern Cape,Business,17,5,191808.7,356,Active
+999,54,Male,Western Cape,Business,12,30,52453.84,628,Churned
+1000,40,Female,Gauteng,Current,16,9,225684.26,351,Active
+1001,68,Male,North West,Student,9,13,151148.87,599,Churned
+1002,68,Female,Western Cape,Current,9,10,65220.23,664,Active
+1003,61,Male,Northern Cape,Current,16,63,166074.37,567,Active
+1004,67,Female,Free State,Savings,3,49,198924.32,508,Active
+1005,58,Female,Gauteng,Current,3,19,121207.33,733,Churned
+1006,42,Male,North West,Business,16,79,130297.51,471,Active
+1007,32,Male,Gauteng,Student,19,72,124642.74,582,Churned
+1008,45,Female,Gauteng,Savings,4,14,19069.89,661,Churned
+1009,43,Female,North West,Business,17,64,191394.09,493,Active
+1010,39,Male,Gauteng,Business,15,10,21905.67,351,Active
+1011,61,Male,Gauteng,Current,10,63,80367.48,509,Active
+1012,57,Female,Mpumalanga,Current,12,53,249559.39,674,Active
+1013,58,Male,Mpumalanga,Business,10,10,220430.71,594,Active
+1014,67,Female,Northern Cape,Business,11,79,40033.88,400,Churned
+1015,59,Female,Gauteng,Student,13,61,123221.02,734,Active
+1016,39,Female,North West,Current,17,57,81464.41,765,Active
+1017,47,Male,Northern Cape,Business,7,23,121867.38,533,Churned
+1018,24,Female,Northern Cape,Business,9,13,193675.66,650,Active
+1019,32,Male,Limpopo,Current,6,32,192608.42,524,Active
+1020,32,Male,KwaZulu-Natal,Current,14,19,129821.82,689,Active
+1021,55,Female,North West,Savings,18,51,177924.89,608,Churned
+1022,30,Male,North West,Current,11,76,86893.38,448,Active
+1023,62,Male,KwaZulu-Natal,Current,14,29,58789.38,343,Active
+1024,42,Female,Eastern Cape,Business,3,2,95291.11,732,Active
+1025,42,Male,KwaZulu-Natal,Savings,18,54,189508.32,539,Churned
+1026,54,Male,Mpumalanga,Current,19,15,233144.77,413,Active
+1027,55,Male,Eastern Cape,Business,14,49,233529.86,560,Active
+1028,69,Male,KwaZulu-Natal,Business,7,23,67168.87,595,Churned
+1029,28,Male,Limpopo,Student,5,57,25740.37,626,Churned
+1030,41,Female,Gauteng,Savings,9,4,142584.39,803,Active
+1031,56,Female,Mpumalanga,Current,10,73,221958.28,359,Active
+1032,42,Male,Free State,Current,15,2,204947.25,655,Active
+1033,47,Male,Northern Cape,Savings,7,63,134075.03,364,Churned
+1034,60,Male,Free State,Savings,18,11,80505.36,636,Active
+1035,26,Female,Limpopo,Savings,11,75,48008.17,497,Active
+1036,64,Female,Western Cape,Student,18,78,111686.88,624,Active
+1037,24,Male,Gauteng,Current,10,48,18397.07,359,Active
+1038,42,Female,Northern Cape,Savings,13,59,220310.52,656,Active
+1039,65,Female,Limpopo,Savings,8,49,237132.08,567,Active
+1040,18,Male,Western Cape,Current,1,32,147127.35,348,Active
+1041,26,Male,Northern Cape,Current,17,60,73584.84,743,Churned
+1042,21,Female,Mpumalanga,Student,17,50,38288.68,469,Active
+1043,55,Male,Eastern Cape,Business,16,65,80522.91,503,Active
+1044,39,Male,Northern Cape,Business,10,61,184668.61,518,Active
+1045,62,Male,KwaZulu-Natal,Business,3,53,20636.76,640,Active
+1046,69,Male,Eastern Cape,Savings,11,36,207509.07,682,Active
+1047,55,Female,Free State,Current,11,27,82665.66,846,Active
+1048,53,Female,Gauteng,Student,19,45,179321.29,674,Churned
+1049,53,Male,Western Cape,Current,11,37,49039.72,465,Active
+1050,61,Male,North West,Business,8,43,105923.58,504,Active
+1051,47,Male,Gauteng,Current,20,13,147408.16,477,Active
+1052,33,Male,Free State,Business,11,33,87476.32,690,Active
+1053,33,Female,Free State,Business,19,6,172564.81,322,Active
+1054,53,Male,KwaZulu-Natal,Business,4,3,242681.67,482,Active
+1055,62,Male,KwaZulu-Natal,Business,12,1,206371.15,832,Active
+1056,66,Female,Free State,Student,12,32,178672.73,531,Active
+1057,68,Male,Eastern Cape,Student,4,79,25604.68,483,Active
+1058,48,Male,KwaZulu-Natal,Savings,12,1,224238.26,766,Active
+1059,46,Male,Mpumalanga,Savings,4,14,188525.73,716,Active
+1060,58,Female,Eastern Cape,Current,4,21,208476.74,512,Churned
+1061,41,Male,Limpopo,Business,11,29,249726.72,750,Active
+1062,63,Male,Limpopo,Savings,17,22,92135.79,441,Churned
+1063,29,Female,Northern Cape,Student,19,39,83868.68,624,Active
+1064,63,Male,Eastern Cape,Business,1,77,213539.57,771,Active
+1065,67,Female,Gauteng,Current,20,34,181506.77,766,Active
+1066,50,Female,Mpumalanga,Current,5,67,220998.62,626,Active
+1067,35,Female,Western Cape,Savings,7,69,216836.46,755,Active
+1068,50,Female,Gauteng,Savings,5,38,139426.18,338,Active
+1069,25,Female,Mpumalanga,Current,20,16,248873.16,802,Churned
+1070,48,Female,Eastern Cape,Student,20,42,60183.17,414,Active
+1071,41,Female,Northern Cape,Savings,18,78,197450.14,525,Active
+1072,19,Female,Free State,Business,7,21,30258.28,502,Active
+1073,37,Male,KwaZulu-Natal,Current,8,42,207776.46,772,Churned
+1074,58,Female,KwaZulu-Natal,Business,10,70,115012.94,388,Active
+1075,40,Male,Northern Cape,Savings,19,26,125394.93,563,Active
+1076,44,Male,Mpumalanga,Savings,13,4,132381.76,771,Active
+1077,48,Female,Limpopo,Current,12,11,230007.8,843,Active
+1078,36,Female,KwaZulu-Natal,Business,20,56,37451.15,309,Active
+1079,45,Female,Northern Cape,Savings,11,59,176521.41,795,Active
+1080,26,Male,Gauteng,Savings,17,44,168944.91,307,Active
+1081,29,Male,Western Cape,Savings,6,41,210079.56,742,Churned
+1082,36,Female,Eastern Cape,Current,8,3,58212.89,805,Active
+1083,67,Female,Limpopo,Savings,1,18,210237.84,530,Active
+1084,24,Female,KwaZulu-Natal,Savings,14,53,45120.85,644,Churned
+1085,33,Female,Free State,Student,12,17,231606.85,644,Active
+1086,58,Male,Western Cape,Current,3,33,128601.91,739,Churned
+1087,46,Male,Eastern Cape,Business,7,45,151003.92,525,Churned
+1088,56,Female,Northern Cape,Current,18,61,14555.15,437,Active
+1089,54,Female,Free State,Business,17,49,80237.56,557,Active
+1090,39,Male,Northern Cape,Business,11,77,203071.32,764,Active
+1091,24,Female,Free State,Current,5,69,125339.41,561,Active
+1092,27,Male,North West,Business,16,37,85912.35,376,Active
+1093,35,Male,Gauteng,Business,4,26,233600.31,652,Churned
+1094,57,Male,Mpumalanga,Current,3,67,132703.97,462,Active
+1095,28,Female,Northern Cape,Business,11,60,76906.69,748,Active
+1096,36,Female,Gauteng,Student,3,36,145807.68,664,Active
+1097,30,Female,Eastern Cape,Business,1,5,187822.16,403,Active
+1098,21,Female,Free State,Business,19,9,8839.92,802,Active
+1099,44,Male,North West,Student,6,66,106760.34,605,Active
+1100,39,Male,Mpumalanga,Business,16,66,35360.28,347,Active
+1101,60,Female,Limpopo,Savings,8,68,239918.75,436,Churned
+1102,38,Male,North West,Current,19,28,145168.64,323,Active
+1103,48,Female,Western Cape,Current,19,32,94658.21,749,Active
+1104,18,Male,Limpopo,Savings,4,76,172185.36,554,Active
+1105,35,Female,Northern Cape,Business,6,15,20696.95,568,Active
+1106,34,Male,Mpumalanga,Current,18,32,197088.77,798,Active
+1107,46,Male,Mpumalanga,Current,1,29,81447.34,802,Active
+1108,52,Female,North West,Business,13,13,233193.95,527,Churned
+1109,63,Male,Eastern Cape,Savings,19,46,231092.5,552,Active
+1110,50,Male,Mpumalanga,Current,4,3,233520.86,369,Churned
+1111,50,Male,Western Cape,Student,16,24,113740.22,474,Active
+1112,44,Female,Free State,Business,3,26,56160.96,701,Active
+1113,19,Female,Gauteng,Current,1,39,226533.02,406,Active
+1114,56,Male,Northern Cape,Student,7,54,113183.93,375,Churned
+1115,42,Male,Gauteng,Business,16,32,31818.28,801,Churned
+1116,54,Male,Western Cape,Student,17,78,103081.66,549,Active
+1117,64,Male,Northern Cape,Business,13,51,216673.64,690,Churned
+1118,32,Female,Northern Cape,Business,8,37,105569.17,667,Active
+1119,60,Female,KwaZulu-Natal,Business,16,56,157000.97,663,Active
+1120,26,Male,Western Cape,Business,7,8,194233.48,340,Active
+1121,63,Female,Gauteng,Student,18,52,56456.22,543,Active
+1122,45,Female,Free State,Student,3,31,123792.32,699,Active
+1123,65,Female,Mpumalanga,Savings,17,27,200509.83,472,Active
+1124,55,Male,Eastern Cape,Business,9,76,64795.06,462,Active
+1125,40,Female,North West,Current,13,44,11642.97,708,Churned
+1126,28,Male,Mpumalanga,Savings,3,15,12800.27,300,Active
+1127,60,Male,Eastern Cape,Savings,20,71,178161.96,715,Active
+1128,53,Female,Free State,Business,3,1,26897.19,780,Active
+1129,62,Male,Limpopo,Business,15,6,111554.11,830,Active
+1130,33,Female,Mpumalanga,Business,16,10,162131.67,732,Active
+1131,46,Female,Eastern Cape,Current,2,36,43263.88,762,Active
+1132,33,Male,North West,Student,2,71,38002.5,489,Churned
+1133,56,Female,Eastern Cape,Current,4,44,8227.17,809,Active
+1134,54,Male,Gauteng,Savings,19,53,40828.6,421,Active
+1135,26,Male,North West,Student,9,77,177440.59,426,Active
+1136,37,Male,Northern Cape,Current,10,13,196096.15,360,Active
+1137,39,Female,Eastern Cape,Student,12,11,79052.87,493,Active
+1138,40,Female,Northern Cape,Business,18,25,180206.85,520,Churned
+1139,69,Female,Northern Cape,Current,16,20,64712.68,387,Active
+1140,21,Male,North West,Current,17,13,100005.97,535,Active
+1141,23,Male,Northern Cape,Student,10,21,51946.17,715,Churned
+1142,68,Male,Limpopo,Business,14,34,206641.24,360,Active
+1143,61,Female,Mpumalanga,Savings,18,63,212825.44,381,Active
+1144,18,Male,Eastern Cape,Savings,18,26,176413.29,807,Active
+1145,25,Female,Gauteng,Business,12,25,176617.67,311,Active
+1146,23,Male,KwaZulu-Natal,Student,8,68,160872.03,385,Active
+1147,21,Male,Gauteng,Student,15,21,241430.47,404,Active
+1148,34,Female,Western Cape,Student,20,75,104004.29,618,Churned
+1149,32,Male,Western Cape,Student,10,15,232790.99,806,Active
+1150,26,Female,KwaZulu-Natal,Current,16,36,165351.48,396,Active
+1151,39,Female,Gauteng,Student,13,6,34055.28,643,Churned
+1152,60,Male,KwaZulu-Natal,Current,12,14,96845.9,754,Churned
+1153,43,Female,Limpopo,Student,18,14,31797.73,726,Active
+1154,36,Male,Western Cape,Business,2,39,78533.8,702,Active
+1155,38,Female,Northern Cape,Savings,11,39,163907.81,713,Active
+1156,53,Male,KwaZulu-Natal,Student,19,9,141998.61,785,Churned
+1157,39,Male,Eastern Cape,Current,5,59,99363.71,564,Active
+1158,23,Male,Northern Cape,Business,17,5,6039.6,490,Active
+1159,68,Male,Western Cape,Student,18,4,26235.12,675,Active
+1160,23,Male,Gauteng,Savings,11,16,143227.63,318,Active
+1161,34,Male,Gauteng,Student,15,54,13541.03,702,Active
+1162,45,Male,Free State,Student,18,26,121854.71,307,Active
+1163,42,Male,North West,Student,15,55,74031.35,534,Active
+1164,50,Male,Limpopo,Savings,7,17,234063.33,421,Active
+1165,67,Male,North West,Student,5,62,58068.2,763,Active
+1166,28,Male,Gauteng,Student,6,35,232759.09,464,Active
+1167,18,Female,Gauteng,Student,2,10,202801.61,379,Active
+1168,37,Female,Western Cape,Business,16,12,181787.81,616,Churned
+1169,62,Male,Limpopo,Business,3,15,87798.92,836,Active
+1170,23,Female,Free State,Business,20,79,78662.36,420,Active
+1171,22,Male,Limpopo,Business,4,18,1825.89,483,Active
+1172,22,Male,Western Cape,Current,3,37,167117.65,746,Active
+1173,69,Male,Northern Cape,Student,4,33,249024.14,723,Active
+1174,48,Male,KwaZulu-Natal,Savings,12,48,9167.62,510,Active
+1175,65,Male,Northern Cape,Student,9,71,16149.18,633,Active
+1176,65,Female,Northern Cape,Business,10,56,105900.22,652,Active
+1177,33,Male,Free State,Current,19,6,147154.95,438,Active
+1178,37,Female,Eastern Cape,Savings,18,36,18193.59,368,Active
+1179,57,Female,Free State,Student,2,50,207218.3,436,Active
+1180,18,Male,Western Cape,Current,12,22,45067.9,714,Active
+1181,30,Female,KwaZulu-Natal,Business,18,67,99238.34,610,Active
+1182,42,Male,North West,Student,8,9,110586.8,393,Active
+1183,38,Female,Free State,Savings,4,40,116413.4,553,Active
+1184,59,Male,Northern Cape,Current,18,61,115882.98,758,Active
+1185,60,Male,Gauteng,Business,16,44,31667.49,763,Active
+1186,65,Female,KwaZulu-Natal,Savings,15,6,8689.96,717,Active
+1187,27,Male,Limpopo,Business,17,12,208427.72,534,Churned
+1188,42,Female,Limpopo,Savings,16,52,3081.23,720,Active
+1189,45,Female,Northern Cape,Business,17,14,112483.51,734,Active
+1190,35,Male,Western Cape,Savings,3,30,73793.59,526,Active
+1191,62,Female,Northern Cape,Student,19,12,207502.34,391,Active
+1192,68,Female,Eastern Cape,Savings,14,7,191792.96,579,Churned
+1193,65,Male,Limpopo,Current,4,40,112753.24,603,Churned
+1194,62,Female,Mpumalanga,Student,14,29,52717.3,690,Active
+1195,55,Female,KwaZulu-Natal,Business,1,68,245171.73,846,Active
+1196,25,Male,KwaZulu-Natal,Student,11,41,37890.77,325,Active
+1197,68,Female,Free State,Student,5,77,77503.85,556,Active
+1198,42,Male,KwaZulu-Natal,Business,8,32,240394.17,686,Active
+1199,32,Female,North West,Student,13,25,65385.66,343,Active
+1200,31,Male,Northern Cape,Student,1,7,224169.98,476,Active
+1201,32,Female,Gauteng,Current,3,16,82828.74,514,Active
+1202,31,Male,Western Cape,Student,7,27,153033.57,414,Active
+1203,29,Male,Mpumalanga,Business,20,45,227000.06,577,Active
+1204,46,Male,Free State,Business,13,77,28047.17,323,Churned
+1205,25,Female,Gauteng,Student,5,78,233596.2,463,Churned
+1206,46,Male,Northern Cape,Business,1,34,248574.85,576,Active
+1207,61,Male,Limpopo,Savings,19,79,152376.37,763,Churned
+1208,34,Female,Northern Cape,Savings,17,51,163094.11,469,Active
+1209,35,Female,Mpumalanga,Savings,3,20,89440.93,760,Active
+1210,54,Female,Free State,Business,6,71,134585.53,307,Active
+1211,38,Female,KwaZulu-Natal,Savings,8,25,227434.08,724,Active
+1212,37,Male,North West,Business,2,76,165592.48,785,Churned
+1213,53,Female,Gauteng,Savings,6,52,200739.85,695,Active
+1214,32,Female,Mpumalanga,Savings,14,42,170048.18,826,Active
+1215,58,Male,Mpumalanga,Savings,20,63,241369.97,419,Active
+1216,59,Female,Northern Cape,Current,4,69,78988.1,554,Active
+1217,47,Male,Free State,Current,4,2,70537.08,541,Active
+1218,61,Male,Northern Cape,Student,5,9,15854.99,837,Active
+1219,48,Male,Free State,Business,17,17,117845.85,706,Active
+1220,64,Male,Free State,Savings,3,28,2879.97,559,Active
+1221,26,Female,North West,Student,17,65,164018.11,714,Active
+1222,42,Male,Gauteng,Current,15,56,160242.6,346,Active
+1223,36,Male,Free State,Savings,14,72,245292.23,709,Active
+1224,18,Male,Mpumalanga,Student,11,57,246523.84,845,Active
+1225,36,Male,Eastern Cape,Business,15,22,223702.17,427,Churned
+1226,27,Male,KwaZulu-Natal,Savings,15,11,151262.75,579,Active
+1227,26,Female,Free State,Business,17,37,231838.01,300,Active
+1228,61,Male,KwaZulu-Natal,Student,19,58,57330.7,377,Active
+1229,69,Male,Free State,Student,16,10,220165.26,334,Churned
+1230,68,Male,Western Cape,Current,8,78,139930.8,840,Active
+1231,36,Male,Eastern Cape,Student,10,47,124663.56,621,Active
+1232,34,Female,Eastern Cape,Student,19,20,249725.37,700,Active
+1233,39,Male,Western Cape,Business,5,39,47420.61,599,Active
+1234,45,Female,Northern Cape,Current,10,67,16258.55,631,Active
+1235,39,Male,Limpopo,Current,6,57,162212.61,407,Active
+1236,60,Male,North West,Business,8,60,179446.2,416,Active
+1237,50,Male,Western Cape,Business,12,37,225216.19,591,Active
+1238,61,Male,KwaZulu-Natal,Student,1,30,216498.95,823,Active
+1239,41,Female,Northern Cape,Business,11,13,38663.99,755,Active
+1240,31,Male,Western Cape,Savings,2,43,22911.53,834,Active
+1241,68,Male,Eastern Cape,Current,12,64,154556.96,624,Active
+1242,61,Female,Eastern Cape,Student,5,64,63231.82,633,Churned
+1243,55,Male,Northern Cape,Student,16,39,5392.83,832,Churned
+1244,43,Male,Limpopo,Current,11,22,17994.45,346,Active
+1245,29,Female,KwaZulu-Natal,Student,6,53,85121.55,560,Active
+1246,43,Female,Eastern Cape,Business,13,29,141827.7,691,Active
+1247,52,Female,North West,Current,5,16,14918.16,523,Active
+1248,37,Female,Limpopo,Student,15,1,39878.77,520,Active
+1249,56,Female,Western Cape,Student,18,72,210418.51,313,Active
+1250,33,Female,Gauteng,Savings,13,71,100787.01,454,Active
+1251,61,Male,North West,Current,20,36,78853.98,539,Active
+1252,23,Male,Limpopo,Student,16,54,34612.21,502,Active
+1253,50,Male,Mpumalanga,Student,19,76,164026.22,465,Active
+1254,30,Female,KwaZulu-Natal,Current,8,30,195942.5,468,Active
+1255,42,Male,Free State,Savings,2,18,46760.25,553,Active
+1256,39,Female,North West,Business,13,55,36469.87,387,Active
+1257,54,Female,Free State,Business,19,63,143786.24,345,Active
+1258,25,Male,Western Cape,Savings,3,28,162445.61,810,Active
+1259,56,Male,Gauteng,Savings,11,59,38879.57,538,Active
+1260,59,Female,Northern Cape,Business,1,62,136832.04,675,Active
+1261,21,Female,Northern Cape,Business,4,34,44075.19,843,Active
+1262,58,Male,Western Cape,Savings,8,78,235587.31,320,Churned
+1263,21,Female,Northern Cape,Current,20,50,151876.54,377,Active
+1264,43,Female,North West,Current,18,2,49329.08,739,Churned
+1265,48,Female,Northern Cape,Business,17,61,207380.85,540,Active
+1266,54,Male,Mpumalanga,Current,16,38,180511.55,386,Active
+1267,60,Female,Western Cape,Current,12,13,57241.72,525,Active
+1268,69,Female,Northern Cape,Business,8,8,223436.88,845,Active
+1269,63,Female,KwaZulu-Natal,Savings,8,45,216051.98,432,Churned
+1270,33,Female,Limpopo,Savings,2,7,193481.77,808,Active
+1271,67,Male,Northern Cape,Savings,10,15,130115.71,500,Active
+1272,66,Male,Gauteng,Current,9,38,106678.06,642,Active
+1273,47,Male,North West,Student,20,33,138803.49,551,Active
+1274,62,Female,Eastern Cape,Student,11,73,162349.41,310,Active
+1275,49,Female,Free State,Savings,18,17,114935.16,808,Active
+1276,62,Female,Gauteng,Savings,17,40,27427.18,357,Active
+1277,32,Male,Free State,Business,2,70,85473.7,796,Active
+1278,50,Male,Limpopo,Business,6,78,114841.66,684,Active
+1279,23,Male,KwaZulu-Natal,Student,1,23,171131.39,702,Churned
+1280,36,Male,Mpumalanga,Current,10,57,127155.36,361,Churned
+1281,69,Female,Limpopo,Savings,19,9,5923.84,405,Active
+1282,39,Female,Western Cape,Student,13,12,53323.34,563,Active
+1283,61,Female,Western Cape,Student,9,67,122712.1,768,Active
+1284,27,Male,Gauteng,Savings,16,55,28342.68,761,Churned
+1285,35,Male,North West,Business,6,23,55417.4,352,Churned
+1286,23,Male,Free State,Business,2,13,232626.48,746,Churned
+1287,39,Male,Gauteng,Savings,19,64,209101.78,589,Active
+1288,30,Male,Northern Cape,Savings,6,45,83032.85,602,Active
+1289,22,Female,North West,Student,19,21,95032.33,423,Active
+1290,64,Female,Limpopo,Student,20,60,227764.29,449,Active
+1291,48,Male,Gauteng,Current,3,39,179183.05,813,Churned
+1292,22,Male,Eastern Cape,Student,13,60,235852.95,392,Churned
+1293,18,Female,Gauteng,Business,16,62,100831.72,602,Churned
+1294,62,Female,North West,Business,1,38,240459.74,437,Active
+1295,37,Female,Gauteng,Business,17,17,134012.57,729,Active
+1296,43,Female,Free State,Current,18,48,120577.85,701,Churned
+1297,67,Male,Western Cape,Current,6,3,105257.66,745,Active
+1298,56,Female,Free State,Savings,17,42,124539.88,652,Active
+1299,66,Female,North West,Savings,5,34,227290.73,701,Churned
+1300,52,Male,North West,Student,10,72,68105.32,783,Active
+1301,60,Male,Eastern Cape,Savings,17,20,50368.31,606,Churned
+1302,26,Female,Eastern Cape,Savings,9,26,169197.38,333,Active
+1303,22,Female,KwaZulu-Natal,Current,9,77,246068.06,811,Churned
+1304,45,Male,Gauteng,Current,6,27,207196.91,617,Churned
+1305,48,Female,Eastern Cape,Current,15,71,31950.83,668,Active
+1306,39,Male,Eastern Cape,Business,19,76,60775.46,821,Churned
+1307,49,Female,Eastern Cape,Student,11,24,113130.04,467,Active
+1308,50,Female,Northern Cape,Savings,13,56,205772.75,310,Churned
+1309,59,Female,North West,Current,3,3,189486.9,475,Active
+1310,37,Male,Limpopo,Student,11,27,172646.11,312,Churned
+1311,38,Female,Northern Cape,Business,14,18,112269.81,409,Active
+1312,57,Female,Eastern Cape,Business,15,29,192818.22,414,Active
+1313,42,Male,Eastern Cape,Business,8,15,108947.0,762,Active
+1314,65,Female,Free State,Business,5,69,36931.22,825,Active
+1315,33,Female,Limpopo,Student,14,56,84373.25,547,Active
+1316,46,Female,Northern Cape,Student,4,38,206417.66,617,Active
+1317,46,Male,Western Cape,Savings,14,4,205163.09,554,Active
+1318,38,Female,Eastern Cape,Student,16,79,167287.91,368,Churned
+1319,29,Male,North West,Student,4,33,66648.25,458,Active
+1320,54,Female,Free State,Current,2,12,220226.78,562,Active
+1321,49,Male,North West,Business,11,1,92277.87,479,Active
+1322,34,Female,Free State,Current,8,59,89283.55,390,Churned
+1323,20,Female,Gauteng,Business,17,70,210974.94,605,Active
+1324,44,Female,Limpopo,Current,5,5,180663.31,743,Churned
+1325,60,Female,KwaZulu-Natal,Student,4,56,135605.82,436,Active
+1326,18,Male,Gauteng,Current,16,51,28539.55,517,Active
+1327,45,Female,North West,Student,9,60,146681.45,324,Active
+1328,36,Female,Mpumalanga,Student,18,66,201492.42,405,Active
+1329,59,Male,Western Cape,Savings,15,77,194607.11,581,Active
+1330,53,Female,Eastern Cape,Savings,17,27,246618.71,370,Churned
+1331,27,Male,Limpopo,Savings,18,71,18090.99,547,Active
+1332,21,Male,Limpopo,Current,16,42,45498.81,380,Active
+1333,66,Male,KwaZulu-Natal,Savings,4,53,149359.32,759,Active
+1334,66,Female,Limpopo,Current,10,7,117216.7,776,Active
+1335,62,Male,Northern Cape,Savings,7,5,53657.81,781,Active
+1336,38,Male,Northern Cape,Savings,16,58,15348.35,688,Churned
+1337,28,Female,Limpopo,Current,17,45,144232.18,603,Active
+1338,31,Male,Western Cape,Savings,16,23,243055.57,312,Active
+1339,31,Male,North West,Student,20,36,221946.83,513,Active
+1340,27,Male,KwaZulu-Natal,Student,17,33,85757.11,773,Active
+1341,43,Male,Mpumalanga,Student,4,9,179032.93,600,Churned
+1342,39,Male,Free State,Student,5,72,30689.44,802,Active
+1343,24,Male,North West,Student,19,65,70344.36,600,Active
+1344,27,Male,Mpumalanga,Student,9,77,188368.91,737,Active
+1345,33,Male,Free State,Savings,8,20,11327.6,600,Active
+1346,56,Male,Western Cape,Current,6,2,18990.13,417,Active
+1347,65,Female,Western Cape,Savings,14,12,136591.45,593,Active
+1348,55,Female,Gauteng,Savings,3,44,136360.56,376,Active
+1349,28,Female,Mpumalanga,Student,20,10,160756.08,764,Active
+1350,44,Male,Western Cape,Business,13,76,244742.95,301,Churned
+1351,69,Male,Northern Cape,Business,13,29,211254.94,588,Active
+1352,65,Female,Western Cape,Student,3,36,86814.4,674,Active
+1353,22,Male,Western Cape,Current,10,76,238634.7,346,Active
+1354,47,Female,Free State,Current,2,5,206768.55,725,Active
+1355,38,Female,Gauteng,Current,15,8,145754.09,567,Active
+1356,43,Male,Mpumalanga,Current,4,40,122652.11,570,Active
+1357,18,Male,Eastern Cape,Current,12,16,88432.77,661,Active
+1358,38,Female,Limpopo,Student,16,6,84636.37,470,Active
+1359,41,Female,Limpopo,Student,4,22,191908.45,408,Active
+1360,35,Female,Northern Cape,Student,17,30,124690.26,675,Active
+1361,56,Female,Free State,Student,2,61,89893.22,307,Active
+1362,60,Female,Northern Cape,Student,1,34,215131.83,361,Active
+1363,56,Female,Limpopo,Savings,15,48,229502.93,715,Active
+1364,21,Male,Mpumalanga,Current,13,19,210948.05,621,Active
+1365,20,Female,Eastern Cape,Student,5,3,229605.41,725,Active
+1366,41,Female,Eastern Cape,Savings,17,40,80754.79,493,Active
+1367,46,Female,Free State,Student,7,53,133222.95,652,Active
+1368,43,Male,Northern Cape,Current,15,53,49294.88,750,Churned
+1369,53,Female,Limpopo,Savings,3,78,14540.61,343,Active
+1370,36,Female,Free State,Student,19,70,174669.55,632,Active
+1371,19,Male,Gauteng,Student,15,30,147001.19,703,Active
+1372,31,Male,Gauteng,Current,20,13,240606.36,523,Active
+1373,41,Female,Free State,Current,17,35,109944.52,696,Active
+1374,20,Male,KwaZulu-Natal,Student,19,40,130983.89,794,Active
+1375,28,Male,Western Cape,Current,14,46,235437.9,537,Active
+1376,26,Female,Mpumalanga,Student,17,58,120438.16,305,Active
+1377,42,Female,Free State,Student,11,44,192637.21,584,Active
+1378,63,Female,Eastern Cape,Business,5,57,144032.26,443,Active
+1379,61,Male,Eastern Cape,Current,5,6,107426.87,514,Active
+1380,25,Male,Limpopo,Current,6,68,114636.68,516,Churned
+1381,30,Male,Eastern Cape,Student,9,71,210433.4,541,Active
+1382,55,Male,Free State,Savings,12,74,20374.13,828,Active
+1383,26,Male,Limpopo,Savings,12,41,183209.9,630,Active
+1384,37,Male,North West,Business,7,72,191623.46,406,Active
+1385,24,Male,Free State,Student,18,40,64563.99,807,Active
+1386,26,Female,Gauteng,Savings,20,50,192215.78,719,Active
+1387,26,Female,KwaZulu-Natal,Current,20,45,146351.83,843,Active
+1388,18,Female,North West,Student,5,63,34390.19,620,Active
+1389,67,Female,Northern Cape,Student,14,68,107583.05,533,Active
+1390,31,Male,Northern Cape,Business,18,72,21258.85,405,Churned
+1391,43,Male,KwaZulu-Natal,Business,4,79,159274.99,545,Active
+1392,35,Female,Gauteng,Savings,12,16,91414.38,355,Active
+1393,59,Female,Eastern Cape,Business,4,13,222559.72,802,Active
+1394,63,Female,Mpumalanga,Business,20,63,29292.26,672,Churned
+1395,67,Male,Limpopo,Savings,7,73,243237.15,370,Churned
+1396,31,Male,Limpopo,Student,2,72,84324.59,804,Active
+1397,43,Male,North West,Business,7,37,107241.95,819,Active
+1398,45,Female,Mpumalanga,Savings,18,57,66209.22,587,Active
+1399,45,Female,Limpopo,Business,11,33,183733.96,457,Active
+1400,39,Female,Mpumalanga,Business,5,48,14198.77,440,Churned
+1401,65,Female,KwaZulu-Natal,Student,16,61,50487.54,710,Active
+1402,30,Male,Eastern Cape,Student,9,26,207815.16,376,Active
+1403,49,Female,KwaZulu-Natal,Student,6,67,211315.12,609,Active
+1404,40,Female,Limpopo,Student,17,38,188680.72,548,Active
+1405,34,Male,Northern Cape,Current,15,48,69819.31,412,Active
+1406,44,Male,KwaZulu-Natal,Student,3,16,111532.16,300,Churned
+1407,50,Female,Northern Cape,Savings,1,23,238190.02,770,Active
+1408,33,Female,KwaZulu-Natal,Business,7,45,169436.77,579,Active
+1409,21,Female,Eastern Cape,Business,2,28,117835.84,548,Active
+1410,43,Male,KwaZulu-Natal,Business,20,75,185580.72,744,Churned
+1411,62,Female,Free State,Savings,18,49,192598.39,365,Active
+1412,67,Male,Western Cape,Business,7,66,187531.63,374,Active
+1413,56,Male,Limpopo,Business,9,37,210816.12,653,Active
+1414,40,Male,Gauteng,Business,19,68,145083.8,722,Active
+1415,65,Male,Northern Cape,Business,3,32,120064.46,555,Active
+1416,47,Female,Northern Cape,Savings,17,42,121525.46,313,Churned
+1417,57,Male,Eastern Cape,Business,7,55,185793.85,336,Churned
+1418,63,Female,Western Cape,Business,9,44,13965.46,321,Active
+1419,48,Female,North West,Business,11,56,60411.59,320,Churned
+1420,25,Female,Limpopo,Student,8,34,9055.77,660,Active
+1421,66,Female,North West,Current,2,26,86524.34,406,Active
+1422,34,Male,North West,Savings,12,65,56611.75,645,Active
+1423,52,Male,Mpumalanga,Savings,7,51,246309.23,376,Active
+1424,37,Male,Free State,Savings,4,34,85583.76,609,Active
+1425,35,Female,KwaZulu-Natal,Savings,18,72,175846.36,472,Active
+1426,37,Female,Limpopo,Current,2,47,204691.46,728,Churned
+1427,21,Male,Western Cape,Current,19,55,131020.96,562,Active
+1428,33,Female,Gauteng,Current,15,24,124507.4,441,Active
+1429,37,Female,Northern Cape,Business,19,62,57136.82,595,Active
+1430,63,Male,Western Cape,Student,20,63,147485.12,796,Active
+1431,40,Female,Limpopo,Business,2,72,245363.22,612,Active
+1432,69,Male,Northern Cape,Current,9,35,80244.72,521,Active
+1433,19,Female,Western Cape,Savings,7,18,186878.62,742,Active
+1434,33,Female,North West,Current,7,56,4295.67,824,Active
+1435,58,Female,KwaZulu-Natal,Savings,7,64,27336.57,674,Active
+1436,47,Female,North West,Business,20,46,142007.19,818,Active
+1437,22,Female,KwaZulu-Natal,Savings,12,13,156418.16,838,Churned
+1438,35,Female,Free State,Student,7,15,119633.27,731,Active
+1439,33,Female,Limpopo,Business,3,17,33214.74,765,Active
+1440,66,Female,Eastern Cape,Savings,20,79,86468.2,307,Active
+1441,26,Male,North West,Current,13,70,106386.88,736,Active
+1442,57,Male,KwaZulu-Natal,Business,2,39,134876.55,434,Churned
+1443,68,Male,Gauteng,Student,15,36,3849.02,660,Active
+1444,67,Male,Eastern Cape,Business,8,48,115499.73,480,Churned
+1445,68,Female,Free State,Student,18,51,149683.39,671,Churned
+1446,58,Male,KwaZulu-Natal,Business,8,11,161318.51,538,Active
+1447,66,Male,Limpopo,Savings,6,47,30104.6,521,Churned
+1448,54,Male,North West,Savings,20,33,176492.45,834,Active
+1449,62,Male,Gauteng,Student,8,29,118508.75,668,Active
+1450,37,Female,Eastern Cape,Savings,20,37,147488.78,474,Active
+1451,35,Male,KwaZulu-Natal,Business,1,25,69005.79,727,Active
+1452,23,Female,Western Cape,Savings,9,74,196937.8,312,Churned
+1453,50,Female,Mpumalanga,Business,12,60,166734.4,611,Churned
+1454,34,Female,KwaZulu-Natal,Business,4,13,170187.37,344,Churned
+1455,61,Male,Free State,Current,5,12,113108.51,519,Active
+1456,22,Female,Free State,Savings,9,27,10783.9,774,Active
+1457,45,Male,Gauteng,Savings,16,58,93995.39,636,Active
+1458,25,Male,Limpopo,Business,5,6,25115.02,609,Active
+1459,30,Female,Limpopo,Current,12,66,205316.95,546,Churned
+1460,24,Female,Northern Cape,Current,15,11,205246.53,585,Churned
+1461,68,Female,Gauteng,Savings,12,13,77715.65,308,Churned
+1462,57,Male,Mpumalanga,Savings,11,24,119730.33,407,Active
+1463,66,Male,Gauteng,Student,14,78,105908.45,657,Active
+1464,32,Male,Northern Cape,Current,20,21,72878.02,707,Active
+1465,31,Female,Northern Cape,Current,6,76,87942.32,585,Active
+1466,53,Male,Western Cape,Student,17,16,122279.02,645,Active
+1467,21,Male,Eastern Cape,Savings,1,55,71526.26,467,Active
+1468,55,Male,Mpumalanga,Business,8,38,39598.97,777,Active
+1469,57,Female,KwaZulu-Natal,Current,1,33,82930.04,693,Churned
+1470,33,Male,Eastern Cape,Current,1,6,126055.47,570,Active
+1471,19,Male,Free State,Business,4,26,198967.75,821,Active
+1472,52,Male,Western Cape,Savings,16,60,142492.19,304,Active
+1473,25,Female,Gauteng,Current,12,74,83593.29,451,Active
+1474,61,Female,Limpopo,Business,19,59,161429.95,650,Churned
+1475,35,Male,KwaZulu-Natal,Student,8,47,216316.0,831,Churned
+1476,41,Male,KwaZulu-Natal,Business,4,36,138683.15,839,Active
+1477,23,Male,Limpopo,Savings,3,38,120202.95,501,Active
+1478,69,Male,Western Cape,Current,11,4,209513.41,422,Active
+1479,31,Female,Western Cape,Student,7,26,114258.57,529,Active
+1480,25,Male,Limpopo,Current,7,27,153575.21,729,Active
+1481,29,Male,Limpopo,Savings,19,39,225773.8,793,Active
+1482,62,Female,Mpumalanga,Student,9,63,126511.92,441,Active
+1483,20,Female,North West,Savings,15,33,26263.07,830,Active
+1484,36,Male,KwaZulu-Natal,Savings,19,54,109141.31,380,Active
+1485,36,Male,North West,Current,1,51,63457.33,368,Active
+1486,25,Female,Gauteng,Student,10,76,157091.16,573,Active
+1487,33,Male,Limpopo,Student,5,3,153235.47,805,Active
+1488,40,Female,Northern Cape,Student,17,68,7073.66,788,Active
+1489,38,Male,Northern Cape,Current,9,55,160070.74,362,Active
+1490,66,Female,Northern Cape,Student,13,73,195174.7,524,Active
+1491,23,Male,Free State,Student,13,26,235343.92,326,Churned
+1492,47,Male,Limpopo,Student,18,3,111641.94,329,Active
+1493,32,Male,Eastern Cape,Current,18,52,75944.71,743,Active
+1494,54,Female,Eastern Cape,Business,6,12,153316.13,767,Active
+1495,38,Male,Mpumalanga,Student,9,55,109129.65,671,Active
+1496,29,Female,North West,Business,14,34,5495.87,522,Churned
+1497,48,Male,Limpopo,Student,6,45,249308.19,692,Active
+1498,49,Female,North West,Student,2,14,115232.84,435,Active
+1499,63,Male,North West,Savings,12,48,72139.39,842,Active
+1500,19,Male,Mpumalanga,Current,17,52,132678.84,764,Active
+1501,23,Male,Limpopo,Student,4,51,148625.06,500,Churned
+1502,47,Female,Gauteng,Savings,20,2,14647.81,789,Active
+1503,67,Male,Mpumalanga,Savings,15,32,52333.44,650,Churned
+1504,64,Female,KwaZulu-Natal,Student,19,9,87394.52,391,Active
+1505,35,Female,KwaZulu-Natal,Business,3,68,2120.51,389,Active
+1506,24,Female,Free State,Student,17,64,122438.45,611,Active
+1507,22,Male,Gauteng,Current,2,54,188895.94,468,Active
+1508,46,Female,Northern Cape,Student,1,72,64445.14,327,Active
+1509,36,Male,Northern Cape,Business,18,59,170008.68,466,Churned
+1510,54,Male,Gauteng,Savings,15,52,45614.21,533,Active
+1511,31,Male,Limpopo,Business,2,77,105960.39,501,Active
+1512,24,Male,North West,Business,16,73,54148.13,380,Active
+1513,45,Male,Northern Cape,Business,19,63,153733.59,595,Active
+1514,30,Female,Limpopo,Student,7,62,56911.75,728,Active
+1515,59,Male,North West,Student,2,66,56547.37,603,Churned
+1516,49,Male,Mpumalanga,Current,14,4,46499.88,477,Active
+1517,65,Female,North West,Current,5,19,156802.73,461,Active
+1518,64,Female,KwaZulu-Natal,Business,7,50,224521.9,569,Active
+1519,32,Female,North West,Current,18,78,82604.82,488,Churned
+1520,45,Female,Mpumalanga,Business,8,65,44671.84,443,Churned
+1521,67,Female,KwaZulu-Natal,Savings,19,13,194149.89,828,Active
+1522,59,Female,Mpumalanga,Student,8,56,113160.82,638,Active
+1523,58,Female,Free State,Savings,10,74,139662.31,763,Active
+1524,63,Male,Northern Cape,Student,19,53,11742.37,729,Active
+1525,62,Male,Limpopo,Current,17,19,65499.1,380,Active
+1526,19,Female,Limpopo,Business,16,5,108707.38,503,Churned
+1527,32,Female,Eastern Cape,Savings,16,20,198643.6,725,Active
+1528,28,Female,Free State,Current,11,25,167498.13,805,Active
+1529,39,Female,Gauteng,Current,9,61,94525.57,502,Active
+1530,56,Male,Mpumalanga,Business,14,5,24689.37,369,Active
+1531,51,Female,Northern Cape,Business,12,38,135075.14,607,Active
+1532,52,Male,North West,Student,5,55,144546.76,782,Active
+1533,37,Female,Limpopo,Savings,10,4,14276.8,831,Active
+1534,21,Female,Free State,Business,9,59,46470.24,849,Active
+1535,20,Female,Limpopo,Savings,5,46,199265.86,564,Active
+1536,32,Male,Eastern Cape,Savings,20,72,213724.59,428,Active
+1537,47,Male,Western Cape,Savings,20,7,169411.4,685,Churned
+1538,58,Male,Free State,Savings,14,5,26566.01,560,Active
+1539,49,Male,Northern Cape,Student,4,79,139413.8,577,Churned
+1540,34,Female,Western Cape,Student,10,18,188499.22,377,Churned
+1541,34,Male,Limpopo,Current,7,76,186212.04,382,Churned
+1542,21,Female,Eastern Cape,Student,13,18,20654.41,593,Active
+1543,68,Male,Western Cape,Current,19,68,58994.99,440,Active
+1544,68,Male,Mpumalanga,Savings,16,33,76035.52,629,Active
+1545,36,Female,KwaZulu-Natal,Savings,15,41,134779.5,479,Active
+1546,58,Female,North West,Savings,12,61,57885.11,630,Active
+1547,35,Female,Western Cape,Current,19,44,134135.89,821,Active
+1548,47,Female,Eastern Cape,Business,18,31,6830.19,632,Active
+1549,59,Male,Mpumalanga,Current,1,61,8488.5,494,Active
+1550,38,Male,Mpumalanga,Current,6,36,5559.85,608,Active
+1551,28,Male,Northern Cape,Student,17,2,170199.56,806,Churned
+1552,45,Male,Eastern Cape,Savings,11,1,101190.81,527,Active
+1553,37,Female,Limpopo,Business,2,75,222918.04,779,Active
+1554,45,Female,KwaZulu-Natal,Student,10,22,103183.16,719,Active
+1555,45,Female,North West,Student,14,58,63575.82,549,Active
+1556,48,Female,Northern Cape,Savings,5,70,165302.84,307,Churned
+1557,24,Male,Eastern Cape,Business,8,15,129702.41,510,Churned
+1558,48,Male,Western Cape,Savings,11,79,35575.92,386,Churned
+1559,60,Male,Free State,Business,20,58,169098.82,477,Active
+1560,69,Female,KwaZulu-Natal,Savings,10,13,238277.54,349,Active
+1561,20,Male,Eastern Cape,Student,2,68,37771.44,356,Active
+1562,18,Female,KwaZulu-Natal,Student,7,26,182214.72,632,Churned
+1563,44,Female,Northern Cape,Current,6,59,221848.59,811,Churned
+1564,56,Male,Western Cape,Savings,9,37,96910.68,634,Active
+1565,46,Male,North West,Savings,1,5,200671.06,681,Active
+1566,51,Male,Western Cape,Current,17,71,22699.4,424,Churned
+1567,42,Male,Western Cape,Current,6,66,133320.76,576,Churned
+1568,51,Male,Eastern Cape,Savings,14,15,133011.8,719,Active
+1569,32,Male,Western Cape,Business,14,56,154700.36,335,Active
+1570,45,Male,Eastern Cape,Business,8,7,198740.8,552,Active
+1571,68,Female,North West,Current,20,8,3256.26,367,Active
+1572,48,Female,Gauteng,Student,6,79,102766.09,686,Active
+1573,33,Male,North West,Student,10,33,8084.15,439,Active
+1574,49,Male,Free State,Business,16,21,51597.98,606,Active
+1575,23,Female,North West,Business,9,65,225592.95,689,Active
+1576,20,Female,North West,Student,10,62,235060.41,490,Active
+1577,27,Male,Mpumalanga,Student,6,23,29542.51,329,Active
+1578,66,Male,KwaZulu-Natal,Business,2,44,4049.94,586,Churned
+1579,61,Male,Western Cape,Savings,15,19,208094.16,506,Active
+1580,21,Female,North West,Current,17,36,63422.69,409,Churned
+1581,39,Female,Gauteng,Student,14,63,56751.62,350,Active
+1582,29,Female,Northern Cape,Business,10,42,138850.88,650,Active
+1583,31,Female,North West,Student,19,31,226414.44,736,Active
+1584,25,Female,KwaZulu-Natal,Savings,19,48,166977.58,385,Active
+1585,25,Female,Western Cape,Student,1,70,142476.39,502,Active
+1586,45,Male,Limpopo,Business,13,5,151811.21,385,Churned
+1587,42,Male,Mpumalanga,Savings,16,54,35816.44,637,Active
+1588,44,Male,Eastern Cape,Savings,17,17,13596.8,477,Active
+1589,67,Male,Limpopo,Savings,6,28,103667.54,741,Active
+1590,40,Male,Eastern Cape,Business,15,32,199095.32,476,Active
+1591,64,Female,Free State,Savings,5,11,136177.72,782,Active
+1592,45,Male,Limpopo,Current,19,77,193439.36,342,Churned
+1593,66,Male,Northern Cape,Student,11,39,82463.01,457,Active
+1594,22,Female,KwaZulu-Natal,Business,19,8,76004.26,791,Active
+1595,61,Male,Mpumalanga,Student,13,78,159314.31,731,Active
+1596,44,Female,Western Cape,Business,13,35,151257.76,818,Active
+1597,63,Male,KwaZulu-Natal,Current,20,38,158616.14,587,Active
+1598,67,Male,Western Cape,Business,15,52,176926.59,512,Active
+1599,30,Female,KwaZulu-Natal,Current,9,9,33393.24,364,Active
+1600,57,Male,North West,Business,18,64,70950.33,490,Active
+1601,54,Male,Gauteng,Student,16,40,237919.29,403,Churned
+1602,32,Male,Northern Cape,Savings,17,66,215220.14,330,Active
+1603,51,Female,Limpopo,Business,2,55,37512.79,828,Churned
+1604,18,Female,North West,Current,16,29,230960.49,444,Active
+1605,35,Female,Eastern Cape,Savings,16,10,42886.73,827,Churned
+1606,44,Male,Gauteng,Current,3,12,36652.22,608,Active
+1607,66,Female,Mpumalanga,Business,4,64,101318.09,390,Active
+1608,44,Female,Limpopo,Business,7,72,147650.01,546,Active
+1609,32,Male,Gauteng,Current,3,47,22318.55,761,Churned
+1610,25,Female,Gauteng,Current,18,38,16751.06,453,Active
+1611,63,Female,Gauteng,Current,3,29,177148.83,381,Active
+1612,35,Male,KwaZulu-Natal,Current,19,58,70940.42,515,Active
+1613,48,Male,Limpopo,Business,2,19,153667.01,757,Active
+1614,69,Female,Northern Cape,Business,15,26,172152.01,447,Active
+1615,25,Male,Mpumalanga,Current,18,41,105587.25,442,Active
+1616,26,Female,North West,Current,7,41,99961.01,745,Active
+1617,58,Male,Free State,Business,1,17,22422.65,562,Active
+1618,32,Male,Mpumalanga,Student,10,33,235505.29,607,Active
+1619,50,Female,Gauteng,Savings,4,68,92797.06,596,Churned
+1620,18,Female,Limpopo,Business,15,63,232640.66,703,Churned
+1621,22,Male,Northern Cape,Student,2,39,111257.22,451,Active
+1622,20,Male,Free State,Student,15,50,43982.53,331,Active
+1623,57,Female,Gauteng,Student,14,68,91390.54,839,Active
+1624,56,Male,Mpumalanga,Current,9,28,168185.06,316,Active
+1625,33,Male,Northern Cape,Business,6,48,100706.74,415,Active
+1626,30,Male,KwaZulu-Natal,Student,10,71,195997.23,312,Churned
+1627,32,Female,KwaZulu-Natal,Savings,14,75,135779.99,431,Active
+1628,46,Female,Eastern Cape,Savings,18,21,196845.72,437,Active
+1629,35,Female,KwaZulu-Natal,Business,14,22,249834.11,796,Churned
+1630,39,Female,Western Cape,Current,14,54,40518.27,578,Active
+1631,68,Male,KwaZulu-Natal,Business,20,67,94224.36,584,Active
+1632,62,Male,North West,Student,16,31,17835.26,677,Active
+1633,32,Male,Western Cape,Savings,16,49,50416.65,831,Active
+1634,49,Female,Mpumalanga,Current,19,4,161510.04,722,Active
+1635,42,Female,Western Cape,Savings,4,71,202612.29,794,Active
+1636,33,Male,Mpumalanga,Savings,5,68,137276.84,668,Active
+1637,62,Female,Free State,Student,20,14,190384.57,692,Active
+1638,25,Female,Limpopo,Student,15,21,103810.12,520,Churned
+1639,60,Male,Mpumalanga,Savings,10,3,148671.02,738,Active
+1640,36,Female,Limpopo,Current,7,3,226131.05,712,Churned
+1641,52,Male,KwaZulu-Natal,Current,7,39,178918.85,462,Active
+1642,53,Male,Free State,Student,8,29,240386.13,449,Active
+1643,21,Male,Free State,Student,11,18,38197.22,329,Active
+1644,64,Female,Northern Cape,Savings,8,73,237513.77,461,Active
+1645,68,Female,Free State,Current,3,30,96736.32,689,Churned
+1646,42,Male,Northern Cape,Student,3,39,80681.8,714,Active
+1647,41,Female,Western Cape,Student,7,46,18306.07,765,Active
+1648,59,Male,Limpopo,Student,16,75,174944.77,680,Churned
+1649,62,Male,North West,Current,17,1,246551.99,417,Active
+1650,64,Female,Eastern Cape,Current,7,74,101041.71,413,Churned
+1651,62,Male,Gauteng,Current,15,2,190646.06,800,Active
+1652,44,Male,Limpopo,Business,9,15,95483.54,613,Active
+1653,53,Male,Northern Cape,Savings,20,51,19719.48,504,Active
+1654,65,Female,North West,Savings,18,14,43491.8,486,Active
+1655,19,Male,Limpopo,Current,2,9,187271.79,832,Churned
+1656,61,Female,North West,Current,9,62,163545.49,848,Active
+1657,37,Male,Free State,Student,9,29,116334.47,447,Active
+1658,52,Female,Western Cape,Savings,17,71,27101.51,554,Active
+1659,21,Male,Gauteng,Student,18,56,94122.66,397,Active
+1660,31,Female,Western Cape,Savings,2,75,51933.47,396,Active
+1661,46,Male,KwaZulu-Natal,Current,5,68,41492.35,805,Churned
+1662,69,Male,Limpopo,Business,18,53,102918.03,586,Active
+1663,51,Male,KwaZulu-Natal,Savings,7,63,77039.8,768,Churned
+1664,35,Male,Limpopo,Business,20,29,208431.13,556,Active
+1665,67,Male,KwaZulu-Natal,Savings,7,48,221761.76,604,Active
+1666,18,Female,Western Cape,Savings,1,71,233999.89,609,Churned
+1667,21,Male,Northern Cape,Student,13,23,28394.19,470,Active
+1668,52,Male,Western Cape,Student,17,18,13520.17,807,Active
+1669,36,Female,Mpumalanga,Current,8,10,49220.7,475,Active
+1670,30,Male,KwaZulu-Natal,Student,9,20,176249.18,528,Churned
+1671,65,Male,Eastern Cape,Savings,12,73,204643.89,655,Churned
+1672,61,Female,North West,Business,15,11,119460.41,495,Active
+1673,63,Male,KwaZulu-Natal,Current,4,38,29139.18,584,Active
+1674,40,Male,North West,Savings,7,46,48884.99,563,Churned
+1675,38,Male,KwaZulu-Natal,Student,20,48,77733.52,411,Active
+1676,40,Female,Mpumalanga,Business,13,37,33090.81,754,Active
+1677,47,Female,Western Cape,Savings,18,18,229922.89,818,Active
+1678,42,Female,North West,Business,8,8,154175.04,634,Active
+1679,37,Female,KwaZulu-Natal,Business,15,6,78903.26,618,Churned
+1680,35,Male,Gauteng,Savings,13,24,133226.95,369,Active
+1681,19,Female,Mpumalanga,Savings,13,33,197430.46,451,Active
+1682,51,Male,Gauteng,Business,20,16,99811.77,578,Churned
+1683,34,Male,Northern Cape,Business,2,52,122907.12,559,Active
+1684,50,Male,North West,Business,1,4,110770.05,405,Active
+1685,52,Male,Mpumalanga,Current,9,17,60580.48,430,Active
+1686,28,Male,KwaZulu-Natal,Current,11,10,131923.0,594,Churned
+1687,64,Female,Western Cape,Student,5,30,103983.71,374,Active
+1688,44,Male,Free State,Savings,5,48,141986.45,553,Churned
+1689,21,Male,North West,Current,13,42,112885.03,739,Churned
+1690,52,Male,Free State,Student,17,32,19832.71,818,Active
+1691,43,Male,Free State,Current,10,31,222654.5,587,Active
+1692,69,Male,Limpopo,Current,20,40,25047.18,313,Active
+1693,65,Male,KwaZulu-Natal,Savings,11,16,29829.54,814,Churned
+1694,49,Female,Free State,Student,2,76,241969.13,332,Active
+1695,61,Male,KwaZulu-Natal,Business,12,49,111231.28,749,Churned
+1696,28,Male,Mpumalanga,Student,17,66,112161.79,383,Active
+1697,48,Male,Limpopo,Business,20,27,27235.6,640,Active
+1698,22,Female,Limpopo,Student,9,7,5265.27,424,Churned
+1699,24,Female,Northern Cape,Student,8,6,218480.33,530,Active
+1700,37,Female,Northern Cape,Savings,7,67,60961.29,698,Active

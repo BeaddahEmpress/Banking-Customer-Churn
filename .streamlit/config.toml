@@ -1,0 +1,8 @@
+# Save as:  .streamlit/config.toml  (the file must be named config.toml)
+[theme]
+base = "light"
+primaryColor = "#1D5FA8"
+backgroundColor = "#EAF0F5"
+secondaryBackgroundColor = "#DCE6F0"
+textColor = "#16263A"
+font = "sans serif"
